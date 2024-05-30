@@ -1,0 +1,209 @@
+Here you can find different strats for each star in Hazy Maze Cave (HMC)! 
+
+==Swimming Beast in the Cavern (HMC Nessy)==
+Description: Very fast star that can be easily learned. Should be included in close to every blindfolded route.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|InstantDoor
+|{{#ev:youtube|UO3mifYw-ns}}
+|20.46
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|NoBounce
+|{{#ev:youtube|0_iE2C3Fe90}}
+|29.96
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|SlowDoor
+|{{#ev:youtube|IruBdNsCSso}}
+|41.70
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Elevate for 8 Red Coins (HMC Reds)==
+Description: Not to bad on its own with locked cam strats, but very tricky to learn.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Metal-Head Mario Can Move! (HMC Switch)==
+Description: Can be decently fast, but requires really precise counting and somewhat a portion of luck to get the instant switch. 
+{| class="sortable fandom-table"
+|Strategy
+| Video 
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|InstantSwitch
+|TODO
+|TODO
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Backup
+|TODO
+|TODO
+|Advanced
+|
+|
+|}
+
+==Navigating the Toxic Maze (HMC Toxic)==
+Description: Rather slow, but very consistent. Should be included in longer categories besides 16 star.
+{| class="sortable fandom-table"
+|Strategy 
+|Video
+|Time
+|Difficulty 
+|Strats
+|Notes
+|-
+|ToxicBLJ
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|NormalRoute
+|TODO
+|TODO
+|Intermediate
+|
+|
+|}
+
+== A-Maze-ing Emergency Exit (HMC Amazing)==
+Description: Very fast star, can be intimidating as a beginner but I would recommend learning it.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|InstantTJ
+|{{#ev:youtube|49nasZIN2Xo}}
+|11.86
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|ULLJ
+|{{#ev:youtube|yODG6VdnE44}}
+|13.92
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|LockCam
+|{{#ev:youtube|gXipOXflMYs}}
+|51.43
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Watch for Rolling Rocks (HMC Rocks)==
+Description: Easiest and in most cases fastest star of the stage. Should be included in every single speedrun category that goes to basement.
+{| class="sortable fandom-table"
+|Strategy
+| Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|SafeBeginning
+|{{#ev:youtube|MbNJ6FHd1eE}}
+|46.57
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|UnrefWK
+|{{#ev:youtube|fxvPEIVC33I}}
+|18.56
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+| DJWK
+|{{#ev:youtube|ZThWswQDuFE}}
+|15.98
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==100 Coins==
+Description: Very long, one of the most difficult 100 coin stars in the game. Also includes the arguably hardest blue coin switch in the game. 
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes 
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

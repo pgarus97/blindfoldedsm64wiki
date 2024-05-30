@@ -1,0 +1,177 @@
+Here you can find different strats for each star in Bob-Omb Battlefield (BOB)! 
+
+== Big Bob-Omb on the Summit (BOB Boss) ==
+Description: Usually first or second star in runs, needed to open the cannon. Most strats only differ in fighting the boss, but it can also be sped up by getting to the warp as fast as possible. There is ball RNG.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|ESS+BF
+|{{#ev:youtube|iDlMrTU_3qc}}
+|1.04.43
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|FastRegrab
+|{{#ev:youtube|HEuY8mf486E}}
+|59.93
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Footrace with Koopa the Quick (BOB Koopa)==
+Description: Generally slow but consistent and easy star. Time during the race can be used to open the cannon. There is ball RNG.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|w/ Cannon
+|{{#ev:youtube|ZeFyFCKLJtI}}
+|1.37.26
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Shoot to the Island in the Sky (BOB Island)==
+Description: Very fast star, but requires opened cannon and wingcap. An island hop method that is worth skipping the cannon has not been found yet. 
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|IslandClip
+|{{#ev:youtube|hI4x6UMnQeU}}
+|25.5
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Find the 8 Red Coins (BOB Reds)==
+Description: Without being paired to 100 coins, this star is actually pretty okay. Still too slow to include in any category really.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Mario Wings to the Sky (BOB Secrets)==
+Description: Incredibly difficult star, no matter the strategy. Can be made quiet fast but is risky to perform, with an overall success rate of around 50% for first try. Use at your own risk in runs.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Tap
+|{{#ev:youtube|bv_4t27kvzA}}
+|39.4
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|ESS
+|{{#ev:youtube|pEnOIxrm-z8}}
+|50.03
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Behind Chain Chomp's Gate (BOB ChainChomp)==
+Description: Usually the first star that you need to grab in any category. Difficult for beginners but important to master. Spend lots of time practicing this one!
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TB + BombClip
+|{{#ev:youtube|z45ReKTHH_s}}
+|18.68
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|NoLockCam
+|TODO
+|TODO
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|LockCam
+|{{#ev:youtube|YE47OUnZP4w}}
+|57.19
+|Beginner
+|<syntaxhighlight lang="text">
+3TB, CL, CD, CUP, CD, 5LJ U (if hit reset), U till fence, L LJ, U after landing until wall, R until wall, UR corner, PBneutral, punch wall, 3punch, CRmax, switch to lock cam, hold lock cam, wait for chain chomp sound then immidately beatcount (1chainchomp sound, 4Zbuffer L, 11J,12GP). Jtap GP x2 more, wait for cutscene, CLmax, switch back to mario cam, L LJ into UL mash A for more LJ and wallkick into star
+</syntaxhighlight>
+|
+|}
+
+==100 Coins==
+Description: Very long, difficult and tedious star due to the constant reclimbs to the island and aerial coins. Requires multiple yaw/pitch setups and precise counting. 
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

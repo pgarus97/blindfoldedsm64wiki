@@ -1,0 +1,149 @@
+
+Here you can find different strats for each star in Dire Dire Docks (DDD)!
+==Board Bowser's Sub (DDD Sub)==
+Description: This star opens up Firesea and is generally unskippable in all of the blindfolded categories. Therefore you should be really confident with this star, no matter what!
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Backfin
+|{{#ev:youtube|M-0l8TVcLj4}}
+|49.06
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|ChipClip
+|{{#ev:youtube|9CV6OIiwDmw}}
+|48.33
+|Professional+
+|
+|
+|-
+|BoxStrats
+|{{#ev:youtube|GeJ5g_ZHU58}}
+|1.29.15
+|Intermediate
+|
+|
+|}
+==Chests in the Current (DDD Chests)==
+Description: One of the hardest non-coin related stars in the game, requires extremely precise swimming and normalization techniques.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Jumpfish
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Pole-Jumping for Red Coins (DDD Reds)==
+Description: Pretty long star, which requires you to check for many cycles that you have to catch for the poles. Especially one cycle starts from entering the second area's loading zone, so you either have to keep track of it precisely or attempt it randomly (1/3 chance).
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|100+reds
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Through the Jet Stream (DDD Jetstream)==
+Description: Requires metal cap. There can be some really weird glitch with the lock cam and metal cap entry into water, so be careful about your counting and angles with this star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|MetalCap
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==The Manta Ray's Reward (DDD Manta)==
+Description: Probably the hardest non-coin related star in the game. Requires incredibly precise counting and swimming.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|UpDownSearch
+|TODO
+|TODO
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|Only easy if performed with button/keyboard for framewalk.
+|}
+==Collect the Caps... (DDD Caps)==
+Description: Requires vanish cap. The only worth star in categories where you get the vanish cap anyways like 70 star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|StraightSwim
+|{{#ev:youtube|By_ZR2PezJM}}
+|1.03.89
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==100 Coins==
+Description: One of the longest and hardest 100 coin stars in the game, requires lots of precision in swimming, especially in the first area. Be careful as you can only miss 5 coins in the stage (total amount of coins: 105 (106 - 1 that is kind of impossible to get blindfolded)).
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

@@ -1,0 +1,295 @@
+Here you can find different strats for each star in all the Bowser Stages!
+==Bowser in the Dark World No Reds (BitDW)==
+Description: The easiest out of all bowser stages, with a kind of tricky long jump in the middle of the stage. There is also some minor goomba RNG.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|firecrouch+TJWK+TJdive ending
+|<nowiki>https://t.co/9Pd4JtilHt</nowiki>
+|37.2
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Beginner
+|{{#ev:youtube|V9u8-zcjYFY}}
+|1.39.23
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Damageless
+|{{#ev:youtube|H9oWvqmOaNo}}
+|1.47.00
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Bowser in the Dark World Reds (BitDW Reds)==
+Description: Extremely precise movement and timing needed for a fast completion of this star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|2023Route
+|{{#ev:youtube|BgR0ySN0gSc}}
+|1.18.47
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Bowser 1 (BitDW Bowser)==
+Description: First Bowser fight in the game, quiet tricky to do optimally.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|2 Drag
+|{{#ev:youtube|AWW6A1vQ5aQ}}
+|35.3
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|2 Drag FastBeginning
+|{{#ev:youtube|Wlf7HVlIE_I}}
+|32.80
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|1 Throw
+|{{#ev:youtube|nypcv85IrRU}}
+|29.63
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|2 Spin
+|{{#ev:youtube|gKNvK8qFqvI}}
+|27.43
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|-
+|1 Drag
+|{{#ev:youtube|tI6Li1-IK0I}}
+|30.45
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|-
+|Beginner
+|{{#ev:youtube|_fpR90HEkOI}}
+|35.96
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Bowser in the Firesea (BitFS)==
+Description: Requires to keep track of a global cycle from the beginning of the stage, hence every move needs to either be timed or a music cue needs to be learned in order to catch the elevator on the second floor.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Beginner
+|{{#ev:youtube|QsKPeRgk2Q4}}
+|2.04.75
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|EarlyCycle
+|{{#ev:youtube|RrdcJWCe8xU}}
+|53.92
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|elevatorWKs+crazy ending
+|Bubzia on Twitter: "Blindfolded Firesea World Record in 49.26 This is honestly one of my best blindfolded gameplays in this game so far. Absolute crazy new ending strats. <nowiki>https://t.co/YUAhDvFiw7</nowiki>" / Twitter
+|49.26
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Bowser in the Firesea Reds (BitFS Reds)==
+Description: Similarly to no reds in this stage, everything needs to be timed for the second elevator.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|Only easy if performed with button/keyboard for framewalk.
+|}
+==Bowser 2 (BitFS Bowser)==
+Description: Very similar to Bowser 1, but spacing is different so strats need to be adjusted.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|1 Drag 1 Throw
+|{{#ev:youtube|QDzs71_jZP4}}
+|37.43
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|2Drag
+|{{#ev:youtube|DowvKX3zhD4}}
+|43.10
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|2Drag Damageless
+|{{#ev:youtube|kwU-KOejaTQ}}
+|40.06
+|Intermediate
+|8J, 9.5GP
+|
+|}
+==Bowser in the Sky (BitS)==
+Description: Requires either keeping track of the movement via music cues to reach the last elevator cycle or performing elevator skip. I can highly recommend learning multiple music cues as backups instead of relying on the elevator skip.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|HardestStrats
+|{{#ev:youtube|0u67p8w_aOc}}
+|1.09.30
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Music Cycle
+|{{#ev:youtube|WeTIej2R4dM}}
+|3.15.56
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Bowser in the Sky Reds (BitS Reds)==
+Description: Actually a not horrible red coin star, unfortunately useless in most categories besides 120 star. Still need to keep track of a music cue or do elevator skip at the end.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Bowser 3 (BitS Bowser)==
+Description: Bowser 3 is unfortunately a really difficult and precise part at the end of the game. The first two throws are consistent, but rely on RNG: it is about 50% whether Bowser runs or jumps. The last throw is around a 2 frame window dependent on your exact position. This window can be further increased with the BeginnerDrag strat.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|FastSpin
+|{{#ev:youtube|dW_PsHLCGzk}}
+|59.22
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BeginnerDrag
+|{{#ev:youtube|LlQbo0dwKuc}}
+|1.09.43
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Pausebuffered
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

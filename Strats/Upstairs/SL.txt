@@ -1,0 +1,182 @@
+
+Here you can find different strats for each star in Snowman's Land (SL)!
+==Snowman's Big Head (SL Head)==
+Description: Very movement heavy star with wacky camera at times.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TJ Slide getup
+|https://clips.twitch.tv/UgliestEsteemedPresidentANELE-48ZVGJxUNCz-bW6u
+|20.15
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|FastBeginning
+|{{#ev:youtube|engQventr7c}}
+|29.32
+|Professional
+|
+|
+|-
+|SlowBeginning
+|{{#ev:youtube|i6gXRdrCNbI}}
+|39.67
+|Advanced
+|
+|
+|}
+==Chill with the Bully (SL Bully)==
+Description: Pretty easy star with multiple endings that you need to react to (lava, ledgegrab, run).
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|LJ
+|{{#ev:youtube|VovkeHfuWm8}}
+|13.86
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Burn
+|{{#ev:youtube|61VEUV2lmwo}}
+|14.06
+|Intermediate
+|
+|
+|}
+==In the Deep Freeze (SL Freeze)==
+Description: Shortest star in the game. Can be backed up with the intended route.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Instant
+|{{#ev:youtube|wUBfbfngY5o}}
+|7.03
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Backup
+|{{#ev:youtube|e_joO_nwHwI}}
+|26.59
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Whirl from the Freezing Pond (SL Pond)==
+Description: Often tricky to find the box at the end of the star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|LockCam
+|{{#ev:youtube|ldwUayhjiD8}}
+|18.4
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|No backup if you fail the TJ.
+|-
+|OutsideRoute
+|TODO
+|TODO
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Shell Shreddin' for Red Coins (SL Reds)==
+Description: Very difficult reds as they require riding the shell for the red coin under the bully. Besides this coin, not too bad.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|ShellFirst
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Into the Igloo (SL Igloo)==
+Description: Navigating the inside of the igloo with lockcam is 100% recommended.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|FastBeginning
+|{{#ev:youtube|qOvkrPt7Zao}}
+|40.67
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|SlowBeginning
+|TODO
+|TODO
+|Intermediate
+|
+|
+|}
+==100 Coins==
+Description: One of the most RNG dependent and difficult 100 coin stars. Requires many coins from enemies. Should be paired with SL Reds.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

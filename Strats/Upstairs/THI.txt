@@ -1,0 +1,157 @@
+
+Here you can find different strats for each star in Tiny Huge Island (THI)!
+==Pluck the Piranha Flower (THI Plants)==
+Description: Pretty tricky star despite it being very short (and easy especially in visual).
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|singleJs
+|{{#ev:youtube|Qm1gWKAvAIM}}
+|27.94
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Slidekicks
+|TODO
+|TODO
+|Advanced
+|
+|
+|}
+
+==The Tip Top of the Huge Island (THI Top)==
+Description: Likely the easiest star in the stage.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|lakituLJ+marioCamTJ ending
+|{{#ev:youtube|kEx8AeiLhtU}}
+|32.06
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BFs
+|TODO
+|TODO
+|Advanced
+|
+|
+|}
+==Rematch with Koopa The Quick (THI Koopa)==
+Description: Act specific star. Very difficult to perform on top of being heavily RNG-dependent (balls, goombas).
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|LockCam
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Five Itty Bitty Secrets (THI Secrets)==
+Description: Can be a bit tricky, pausebuffers help a lot in this star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Pausebuffered
+|{{#ev:youtube|hOdVdeOfseM}}
+|54.68
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|NoBuffer
+|<nowiki>https://youtu.be/t6OaG-iQRjk</nowiki>
+|49.81
+|Professional
+|
+|
+|}
+==Wiggler's Red Coins (THI Reds)==
+Description: Very precise platforming. Requires entering the cave and probably is not recommended to do together with 100 coins.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Make Wiggler Squirm (THI Wiggler)==
+Description: Fairly decent star, just takes quiet a long time. You can get lucky with an instant star grab at the end.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==100 Coins==
+Description: Should be paired with Wiggler as there are 10 consistent coins in the area. Otherwise with reds, but that is very scary with the precise platforming at the end. Generally, very RNG heavy star with the blue coins from the enemies.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

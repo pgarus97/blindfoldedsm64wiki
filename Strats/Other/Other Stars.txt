@@ -1,0 +1,52 @@
+
+Here you can find different strats for other stars in the game like Toad and MIPS!
+==MIPS==
+Description: Vanish Cap is the most useful of the 3 stages. Both the switch and the red coin star are doable with a little detour and are actively used in 70 star speedruns. The switch is located right at the end together with the red coin star, thus the strats are the same.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|FromBasement
+|{{#ev:youtube|S5BoMrHhr0Y}}
+|14.96
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Toad==
+Description: Not a really useful cap besides for a couple of stars in 120 Star. Red coins can be decently fast for anything above 70 Stars though and allow for some more options in stars.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|BasementToad
+|TODO
+|TODO
+|Beginner
+|
+|
+|-
+|UpstairToad
+|TODO
+|TODO
+|Beginner
+|
+|
+|-
+|TippyToad
+|TODO
+|TODO
+|Beginner
+|
+|
+|}

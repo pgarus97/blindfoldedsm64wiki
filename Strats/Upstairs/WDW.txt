@@ -1,0 +1,152 @@
+
+Here you can find different strats for each star in Wet Dry World (WDW)!
+==Shocking Arrow Lifts! (WDW Warp)==
+Description: One of the easiest and shortest stars in the game. Should be included in upstairs categories.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|DoubleGP
+|{{#ev:youtube|G6IG4aSt42I}}
+|15.4
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|EvenSafer
+|{{#ev:youtube|-eZYVIYj9UE}}
+|23.70
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Top o' the Town (WDW Top)==
+Description: Can be done with low or medium water. Medium is faster, but potentially more difficult.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Instant TJ rollout
+|{{#ev:youtube|yDCaBuAdto8}}
+|28.39
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Buffered TJ
+|TODO
+|TODO
+|Advanced
+|
+|
+|}
+==Secrets in the Shallows & Sky (WDW Secrets)==
+Description: Requires low water. Really difficult, skill-based star. Not recommended for beginner routes. Important to know backups for the wallkicks on the ascend.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|FastStrat
+|{{#ev:youtube|aaElL3_l8Ck}}
+|55.5
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Express Elevator--Hurry Up! (WDW Elevator)==
+Description: Requires low water. Make sure your strat is fast enough to catch the elevator before it goes up.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|earlySideflipEnding
+|{{#ev:youtube|3-Aktf6fm3w}}
+|47.01
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Go to Town for Red Coins (WDW Reds)==
+Description: Very slow if done on its own without 100 coins. 
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Quick Race Through Downtown! (WDW Downtown)==
+Description: Requires vanish cap + high water. The swimming part inside the tunnel can be difficult to learn.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|roofEnding
+|{{#ev:youtube|3PCPuAQymWs}}
+|1.04.46
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==100 Coins==
+Description: Can be either paired with WDW Reds or WDW Secrets (outdated). Coin RNG is usually not a problem as there are plenty of coins in the route.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

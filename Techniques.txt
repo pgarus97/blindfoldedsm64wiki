@@ -1,0 +1,35 @@
+Here you can learn about essential techniques of Super Mario 64 blindfolded speedruns! Most of them are used in 16 Star, but some might only be used in further categories (those will be noted separately). I highly recommend watching https://www.youtube.com/watch?v=hC42czp6g7w to get a better understanding of the general blindfolded techniques used here as well.
+
+===Buffering===
+Buffering generally means to prepare an input during another action. Some games let you for example press the attack button during an animation, and the moment the animation ends the attack will come out. Buffering is essential in SM64, especially in terms of the analogue stick, as we will buffer the stick into different notches on the controller while Mario is in some kind of animation where he cannot move. An easy example can be seen here, where we buffer down during the startup of the stage, and then up during Mario's animation to get out of the snow: {{#ev:youtube|RL26KwLgFwM}}
+
+===Pausebuffering===
+Pausebuffering is the same concept as normal buffering, but we use the pause to make Mario not move. This can be universally applied without the need for an animation, which is the reason it is so powerful and often used. The drawback is that the music stops playing in stages, which makes incorporating this into beatcount sequences a bit more difficult. It also prevents the acceleration issue, where Mario does not move instantly at full speed like required in some setups (as you for example cannot longjump without that speed)
+
+===Z-Buffer===
+Z-Buffering is very similar to pausebuffering, but it eliminates the need to stop the music during beatcounts, which is why it is often preferred in high level gameplay. It also fixes the acceleration issue. In order to Z-Buffer, you need to tap the Z Button (Crouch), so that Mario starts his crouching animation, and then instantly stands up again. During the time of this animation, you can input and buffer any direction on the analogue stick. 
+
+===PB Neutral===
+PB Neutral is a technique you will use A LOT. PB is short for pausebuffer and as the name suggest, we pausebuffer going into a neutral state (letting go of the stick). This is used every time you are in a corner and want to confirm that Mario stays in the corner animation. That is important, because it is easy to lose the alignment with the wall due to "not going neutral fast enough" on the stick. Basically, the stick might not directly go to neutral when if you release it without a pausebuffer, meaning you may get a slight left or right input by accident before the stick reaches the neutral position. This will ruin your alignment with the wall and potentially your setup. Pausebuffering going neutral 100% fixes this issue and basically does not lose any time at all. An example can be seen in the ChainChomp star, where we PBneutral in the corner of the gate to confirm our alignment with the wall: {{#ev:youtube|YE47OUnZP4w}}
+
+===PBkicks===
+PBkicks are a useful technique to go fast and get a kick out of a pausebuffered state. After we do a PBneutral, Mario is in the wallhug state. In order to do a neutral kick now, we need to press A (jump), hold the button, wait till Mario lands, and then kick. This jump loses some time and can also mess up the setup dependent on the situation. Therefore, PBkicks extend the PBneutral technique. We pausebuffer in a corner, go neutral on the stick, and cancel the pause with the A button while continuing to hold it. This way we skip the need for the jump and can just press B to kick. It's basically a way to quickly get a 0.5 A press, if you are familiar with that. An example is to get the right spacing for the Wild Blue star in the fence corner: {{#ev:youtube|CM3OpdKEyS4}}
+
+===Music Cues===
+Music cues are important in stages that have cycles in them (e.g. Bowser stages elevators). Most of the cycles in SM64 are global, meaning they start as soon as you enter the stage and then stay the same until you die. This can be abused by remembering certain parts of the BGM, as we can use certain music cues to exactly know on which cycle the platforms are. With this, we do not need to keep track of the cycles for minutes, but just get into position in time, wait for the music cue, and then perform the setup that crosses the cycle dependent platform. An example would be the last elevator in BITS: {{#ev:youtube|WeTIej2R4dM}}
+
+===Beatcounting===
+Beatcounting is the most powerful technique in SM64, as it basically allows you to transform the game into a rhythm game. It can create really fast and fluid movement and is necessary for many of the strategies in the run. Basically, every stage has a background music (BGM). You start counting the beat and then perform inputs at various beat intervals. It acts as a metronome within the game, as for example counting seconds in your head is too unreliable. To get a better understanding of this, I highly recommend checking the above linked video at chapter 6: https://youtu.be/hC42czp6g7w?si=PU9Gd9MgwGszLrC7&t=661 
+Disclaimer: It might sound difficult, but once you get the concept it really is easy to do, don't give up!!!
+
+===Crouchturns===
+Crouchturns are a way to get certain angles for Mario, especially in stages that have a dynamic camera like HMC. You simply hold crouch, and then hold or ESS up while at the same time tapping CL or CR. This will turn Mario ~45° to left / right and the camera will stay behind him without panning back. An example would be the beginning of HMC: {{#ev:youtube|MbNJ6FHd1eE}}
+
+===ESS / Slowwalk===
+ESS is a term from Zelda speedruns, and basically refers to holding your analogue stick just ever so slightly into a direction. In SM64, we use the term to basically say slowwalking, in such speed that if Mario hits a ledge, he would ledgegrab and not fall down. This is usually in a stick range from 9 to around 33. There are instances where you need a specific ESS range, like canonshots in 70 Star but those are too specific to cover here.
+
+===LockCam===
+SM64 has a locked camera option, which you can activate by pausing, going down twice and selecting the right option. This will overwrite the ability to use Mario Cam, but lets you hold R to lock the camera in place. This is used for various blindfolded setups, as it for example gives better angles and sets up certain jumps in easier ways. Often this is used in stages with dynamic camera like HMC. An example would be the rock room in HMC {{#ev:youtube|gXipOXflMYs}}
+
+===Unreferenced WKs===
+Unreferenced Wallkicks are a very specific technique, but we do use it even in 16 Star, so I thought I will tell you about it. Some specific walls in SM64 have weird properties, in that you can build speed if you run continuously into them. This allows you to do various actions like triple jumps and wallkicks from a stationary position without actually moving. For that, you need to hold up on the analogue into the corner, then perform a jump of your choice, and as soon as you want to wallkick, turn the stick away from the wall in a circle and press A to wallkick. It is best explained with an example: {{#ev:youtube|1NHTP3hkfXw}}

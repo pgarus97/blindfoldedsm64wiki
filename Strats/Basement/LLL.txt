@@ -1,0 +1,206 @@
+
+Here you can find different strats for each star in Lethal Lava Land (LLL)!
+==Boil the Big Bully (LLL BigBully)==
+Description: Very fast but tricky star. The ending can be optimized, but it is hard to find consistency with the falling platforms.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|BF LJ ending
+|{{#ev:youtube|uHMHb_x04Ak}}
+|22.73
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Slidekick
+|{{#ev:youtube|6wm4yds7kis}}
+|25.1
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Bully the Bullies (LLL TinyBullies)==
+Description: Extremely difficult and random star as the bully AI is rather unpredictable and their hitboxes are strange.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|singleJumpU ending
+|https://www.youtube.com/watch?v=zdWFxqf5NP4
+|33.83
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|TripleKill
+|{{#ev:youtube|up1v5jKxt5Q}}
+|30.03
+|Professional
+|
+|
+|}
+==8-Coin Puzzle with 15 Pieces (LLL Reds)==
+Description: Usually the first star that you need to grab in any category. Difficult for beginners but important to master. Spend lots of time practicing this one!
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|beatcountedRun
+|{{#ev:youtube|wmEdFypchyI}}
+|17.25
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BF+slidekicks
+|TODO
+|TODO
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Red-Hot Log Rolling (LLL Log)==
+Description: Requires the wing cap in most strategies. 
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Logless
+|{{#ev:youtube|fwt2ScLDfyc}}
+|17.13
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|MarioCamCap
+|{{#ev:youtube|D6EigbkhkyI}}
+|18.63
+|Professional
+|
+|
+|-
+|LockCam
+|{{#ev:youtube|sV8B9xENqos}}
+|27.92
+|Intermediate
+|
+|
+|}
+==Hot-Foot-It into the Volcano (LLL Volcano)==
+Description: Rather tricky to get down, but decently fast and doable. Lets you retry from the volcano if you die inside it.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|normalRoute
+|{{#ev:youtube|JEh1lgsuwQY}}
+|41.66
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|-
+|Lavaboost
+|{{#ev:youtube|BgK1gIHEQAc}}
+|33.98
+|Professional
+|
+|
+|}
+==Elevator Tour in the Volcano (LLL Elevator)==
+Description: Very fast and easy star, especially lets you retry from the volcano if you die inside it.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TJ Quick Pole
+|{{#ev:youtube|U5CNfZIKB_o}}
+|22.7
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|LJ Quick Pole
+|{{#ev:youtube|fytkz4gJB6c}}
+|24.2
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|LJ Full Pole
+|{{#ev:youtube|XIBBnqHEeIY}}
+|25.96
+|Intermediate
+|
+|
+|-
+|BeginnerStrat
+|{{#ev:youtube|lkoiiF7Fpz8}}
+|37.02
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==100 Coins==
+Description: Likely the hardest star in the entire game. Every single mistake or wrong step at any given point means very likely that you die.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

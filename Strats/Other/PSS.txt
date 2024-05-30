@@ -1,0 +1,76 @@
+
+Here you can find different strats for each star in Peach's Secret Slide (PSS)!
+==Slide Completion (PSS Box)==
+Description: This star is in the box and you can grab it no matter what time you get on the slide.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Instant Backup
+|{{#ev:youtube|ybplBm5EiFk}}
+|31.37
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Instant Box
+|{{#ev:youtube|NVqu2H5XLHM}}
+|26.16
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|SingleJ
+|TODO
+|TODO
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Fast Slide (PSS Fast)==
+Description: This star spawns if you beat the slide in under 21 seconds.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Instant
+|{{#ev:youtube|nt__kMAhKOM}}
+|22.03
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Instant Backup
+|{{#ev:youtube|3rNvnyXiGLI}}
+|27.85
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|SingleJ
+|TODO
+|TODO
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

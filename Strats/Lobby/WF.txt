@@ -1,0 +1,227 @@
+Here you can find different strats for each star in Whomp's Fortress (WF)! 
+
+==Chip off Whomp's Block (WF Boss)==
+Description: Usually first star in runs, as you can easily use the textbox in the beginning without disruption. Has some pseudo RNG at the end for the star position.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|ThwompTJ
+|{{#ev:youtube|bbFSekzcrow}}
+|38.53
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|TJWK
+|{{#ev:youtube|II3awoBtErM}}
+|36.00
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Beginner
+|{{#ev:youtube|le60auNoNt8}}
+|1.05.20
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==To the Top of the Fortress (WF Tower)==
+Description: Only unlocked after WF Boss.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|ThwompTJ
+|{{#ev:youtube|IFwDYNNRkZw}}
+|24.73
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BeginnerPole
+|{{#ev:youtube|aRzCqxMH-Tc}}
+|54.88
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Shoot into the Wild Blue (WF Blue)==
+Description: Very fast star, probably one of the easiest in the entire game. Great for a first star for beginners.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|DoubleLJ
+|{{#ev:youtube|jyc7voPSbyU}}
+|13.91
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|SideflipWK
+|TODO find IL WR vod
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Beginner
+|{{#ev:youtube|CM3OpdKEyS4}}
+|24.82
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Red Coins on the Floating Isle (WF Reds)==
+Description: Actually decent star with possible usage in 70 star with further optimizations.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Fall onto the Caged Island (WF Owl)==
+Description: Pretty fast star that can be tricky for beginners. Important to know is that the velocity and angle the owl is grabbed is transferred to when you release, so take note of that when stratting! Also one of the few platform dependent stars, as Wii VC controller ranges are different and the owl uses full values aka turns faster.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Madowl
+|{{#ev:youtube|YYRT_9gW0vQ}}
+|17.33
+|Professional
+|<syntaxhighlight lang="text">
+CL, buffer UL, J on music cue, tree, CR, U, Jtap UL hold on music cue
+buffer D TBs, LJ at 1.5 flaps
+Flaps: mario cam, R, 2.5neutral, recount 1L recount 6 (tiny bit delayed), release into U
+</syntaxhighlight>
+|
+|-
+|FastOwlGrab
+|{{#ev:youtube|Qdsc7jwWvXE}}
+|18.1
+|Advanced
+|<syntaxhighlight lang="text">
+CL, buffer UL, J on music cue, tree, CR, UR, J tap (1frame) on music cue
+buffer D TBs, J at 1.5 flaps
+Flaps: R, 2.5neutral, recount: 12.5 GP
+</syntaxhighlight>
+|
+|-
+|FJBeginning
+|{{#ev:youtube|PFqWnUX4Skc}}
+|25.76
+|Beginner
+|<syntaxhighlight lang="text">
+U LJ RU tree, CL x2, U till 2nd flap sound, full J, buffer D TBs, J on 2nd flap sound
+Flaps: buffer R, 2.5neutral, recount: 12.5 GP
+</syntaxhighlight>
+|
+|-
+|Owlless
+|{{#ev:youtube|JnNt_JM_Wj8}}
+|15.73
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|Not really applicable in runs, used as single star strat.
+|}
+
+==Blast Away the Wall (WF Cannonless)==
+Description: You will want to do this star before WF Blue, as it is easy to backup to WF Blue without resetting the stage. Also can randomly fail due to precision needed in the setup.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|BridgeShortcut
+|{{#ev:youtube|sbrYKwwTAPY}}
+|23.83
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Owl 
+|{{#ev:youtube|nTNEIAATKhE}}
+|41.8
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==100 Coins==
+Description: One of the easiest 100 coin stars in the game, lots of extra coins and not much RNG besides blue coins from flowers.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

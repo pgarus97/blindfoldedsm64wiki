@@ -1,0 +1,80 @@
+Here you can find different strats for each star in the cap stages!
+==Vanish Cap==
+Description: Vanish Cap is the most useful of the 3 stages. Both the switch and the red coin star are doable with a little detour and are actively used in 70 star speedruns. The switch is located right at the end together with the red coin star, thus the strats are the same.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|fast beginning + TJ elevators
+|<nowiki>https://clips.twitch.tv/AbstemiousEntertainingTardigradeSoonerLater-mGAMuDMfb6Zgew9_</nowiki>
+|56.42
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|FastCycle
+|TODO
+|TODO
+|Professional
+|
+|
+|-
+|MidCycle
+|{{#ev:youtube|zg2sxIHANho}}
+|1.05.03
+|Advanced
+|
+|
+|-
+|SlowCycle
+|TODO
+|TODO
+|Intermediate
+|
+|
+|}
+
+==Metal Cap==
+Description: Not a really useful cap besides for a couple of stars in 120 Star. Red coins can be decently fast for anything above 70 Stars though and allow for some more options in stars.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Wing Cap==
+Description: Very fast and easy to activate the switch (really useful for close to all categories as well). Red Coins is probably the hardest star in the game though.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

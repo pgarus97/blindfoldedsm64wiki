@@ -1,0 +1,175 @@
+Here you can find different strats for each star in Cool Cool Mountain (CCM)!
+==Slip Slidin' Away (CCM Slide)==
+Description: Very easy star for all kinds of difficulty levels. Reliable and pretty fast as well.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TJ+advanced
+|{{#ev:youtube|pyIn8XpfeX8}}
+|33.03
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BeginnerDhold
+|{{#ev:youtube|Fi8iLsABgLE}}
+|41.14
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Li'l Penguin Lost (CCM LilPenguin)==
+Description: Very basic star, should probably be included in most categories as it is fast and suited for beginners (though one of the more tough ones).
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TJWK Grab
+|{{#ev:youtube|9on8QLbX3FY}}
+|21.23
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|FastSlide + InstaGrab
+|{{#ev:youtube|zNpkW5y8hFk}}
+|23.6
+|Advanced
+|
+|
+|-
+|BeginnerSideflipGrab
+|{{#ev:youtube|ek7UQJIZ7os}}
+|1.08.80
+|Beginner+
+|
+|
+|-
+|SlowSlide
+|
+|
+|Intermediate
+|
+|
+|}
+
+
+==Big Penguin Race (CCM BigPenguin)==
+Description: One of the worst stars in the game as the currently only method to get it is a frame-perfect glitch to delay the penguin's textbox.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TJ+PenguinSkip
+|{{#ev:youtube|iF5oDRJiw54}}
+|1.06.00
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Frosty Slide for 8 Red Coins (CCM Reds)==
+Description: Quiet consistent star, but can be challenging to learn. There are many tiny parts that one needs to be careful of.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Optimized
+|{{#ev:youtube|cUTjbsXdF_0}}
+|1.16.06
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Snowman's Lost His Head (CCM Head)==
+Description: This star is only accessible after clearing every other star in the stage besides 100 coins. This make it only really worth it in longer categories as it requires the difficult CCM BigPenguin and CCM Reds.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|GPstargrab
+|{{#ev:youtube|oG5nV14-ixo}}
+|43.76
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Wall Kicks Will Work (CCM Wallkicks) ==
+Description: Very accessible and fast star. Should be include in close to every category in this game.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Sideflips
+|{{#ev:youtube|t4jDMtwTPA0}}
+|16.03
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|DHold+longBFs
+|{{#ev:youtube|RL26KwLgFwM}}
+|30.60
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==100 Coins ==
+Description: Extremely difficult due to the slide part but manageable with lots of practice. Also really tight on coins so you should be careful with this star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty 
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+| TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

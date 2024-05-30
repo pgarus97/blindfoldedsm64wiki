@@ -1,0 +1,225 @@
+Here you can find the speedrun leaderboards for blindfolded Stage RTAs, meaning grabbing all 7 stars in a single stage!
+
+== Bob-Omb Battlefield (BOB) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:26:06
+|7 Apr 2022
+|[https://www.youtube.com/watch?v=0qyUauXCKE0 Video]
+|}
+
+== Whomp's Fortress (WF) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:09:11
+|01 Oct 2021
+|[Https://www.youtube.com/watch?v=XN8k0xY9KZw Video]
+|-
+|2nd
+|Nico2718
+|0:12:20
+|05 Jul 2022
+|[https://youtu.be/eQDenAmmuxs Video]
+|}
+
+== Jolly Roger Bay (JRB) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:31:28
+|22 Mar 2022
+|[https://www.youtube.com/watch?v=a5lwWnOGUhY Video]
+|}
+
+== Cool Cool Mountain (CCM) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:11:38
+|08 Apr 2022
+|[https://www.youtube.com/watch?v=ulmWL08t3FU Video]
+|}
+
+== Big Boo's Haunt (BBH) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:12:53
+|15 Oct 2021
+|[https://www.youtube.com/watch?v=FHDh3EvZO4M Video]
+|-
+|2nd
+|Nico2718
+|0:22:31
+|09 Aug 2022
+|[https://youtu.be/eQDenAmmuxs Video]
+|}
+
+== Shifting Sand Land (SSL) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:42:29
+|02 Mar 2022
+|[https://www.youtube.com/watch?v=2L92G89O2ec Video]
+|}
+
+== Lethal Lava Land (LLL) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:31:22
+|12 Apr 2022
+|[https://www.youtube.com/watch?v=Z9_p-lv8RVM Video]
+|}
+
+== Hazy Maze Cave (HMC) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:18:30
+|22 Apr 2022
+|[https://www.youtube.com/watch?v=0aMiU_sEFvU Video]
+|}
+
+== Wet Dry World (WDW) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:18:47
+|14 Oct 2021
+|[https://www.youtube.com/watch?v=ulmWL08t3FU Video]
+|}
+
+== Tiny Huge Island (THI) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:36:00
+|07 Jan 2022
+|[https://www.youtube.com/watch?v=YW8RAeuTZpo Video]
+|}
+
+== Tall Tall Mountain (TTM) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:16:54
+|11 Apr 2022
+|[https://www.youtube.com/watch?v=MxSe7GuXmJ0 Video]
+|}
+
+== Snowman's Land (SL) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:21:57
+|20 Apr 2022
+|[https://www.youtube.com/watch?v=OORfpd2yCBY Video]
+|}
+
+== Tick Tock Clock (TTC) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:13:09
+|06 Oct 2021
+|[https://www.youtube.com/watch?v=6RMbN5MesHQ Video]
+|}
+
+== Rainbow Ride (RR) ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:16:27
+|11 Nov 2021
+|[https://www.youtube.com/watch?v=kuGP89kWaps Video]
+|}
+[[Category:Leaderboards]]
+[[Category:Speedruns]]

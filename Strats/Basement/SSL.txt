@@ -1,0 +1,178 @@
+
+Here you can find different strats for each star in Shifting Sand Land (SSL)!
+==In the Talons of the Big Bird (SSL Talon)==
+Description: Very tricky and difficult star to master. Even on high level it can be unreliable, but fast.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|visualStrat
+|{{#ev:youtube|nEL-UWkK08c}}
+|18.36
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|kickBeginning
+|{{#ev:youtube|eFuMK3haFxc}}
+|23.33
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|There is still unsolved randomness with the camera after the slope.
+|-
+|2BFbeginning
+|TODO
+|TODO
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|There is still unsolved randomness with the camera after the slope.
+|-
+|Pillar
+|TODO
+|TODO
+|Intermediate
+|
+|
+|}
+==Shining Atop the Pyramid (SSL Pyramid)==
+Description: Fast and easy star with strats for all difficulty levels. It is probably worth doing a trip to SSL just for this star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|2kickBeginning1CL
+|{{#ev:youtube|YksnSzY4fcE}}
+|8.56
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|There is still unsolved randomness with the camera after the slope.
+|-
+|instantTJBeginning
+|{{#ev:youtube|aO1jrQKBPpw}}
+|7.8
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|FenceNormalize
+|{{#ev:youtube|EVI4s5otwDg}}
+|37.10
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Inside the Ancient Pyramid (SSL Top)==
+Description: Very fast star, but requires opened cannon and wingcap. An island hop method that is worth skipping the cannon has not been found yet.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Stand Tall on the Four Pillars (SSL Eyerock)==
+Description: Without being paired to 100 coins, this star is actually pretty okay. Still too slow to include in any category really.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Free Flying for 8 Red Coins (SSL Reds)==
+Description: Incredibly difficult star, no matter the strategy. Can be made quiet fast but is risky to perform, with an overall success rate of around 50% for first try. Use at your own risk in runs.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Pyramid Puzzle (SSL Secrets)==
+Description: Usually the first star that you need to grab in any category. Difficult for beginners but important to master. Spend lots of time practicing this one!
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO
+|TODO
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==100 Coins==
+Description: One of the few 100 coin stars that cannot be paired with red coins. Extremely difficult and long star, probably one of the hardest in the entire game. Lots of RNG due to Pockey blue coins and tight coin count.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

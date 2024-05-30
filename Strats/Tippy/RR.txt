@@ -1,0 +1,178 @@
+Here you can find different strats for each star in Rainbow Ride (RR)!
+==Cruiser Crossing the Rainbow (RR Cruiser)==
+Description: Fairly long but consistent star. Requires riding the carpet up to the poles.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TJWK+CarpetLJ
+|https://clips.twitch.tv/YawningHeadstrongDugongKreygasm-1c1hfMD5g7DfsxXM}}
+|58.2
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Pole
+|{{#ev:youtube|HhnE3lnZ-C8}}
+|1.05.63
+|Advanced
+|
+|
+|}
+==The Big House in the Sky (RR House)==
+Description: Extremely difficult star as it requires to beatcount a very long section of the carpet ride, in which any mistake or imprecision leads to death.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|doubleCarpet
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Coins Amassed in a Maze (RR Reds)==
+Description: Very movement heavy star but reliable as you can backup and renormalize close to everywhere as long as you know the layout of the maze.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|normalizationSkip
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|NormalRoute
+|TODO
+|TODO
+|Advanced
+|
+|
+|}
+==Swingin' in the Breeze (RR Swing)==
+Description: Same beginning as RR Triangles until reaching the other side. Requires memorizing a cycle of the music.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|FastCycle
+|{{#ev:youtube|mUVXeC6BOdg}}
+|24.03
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BackupCycle
+|{{#ev:youtube|t7pTmT3WB44}}
+|33.63
+|Advanced
+|
+|
+|}
+==Tricky Triangles! (RR Triangles)==
+Description: Same beginning as RR Swing until reaching the other side. Make sure that you are exactly centered on the platform for this star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|SafeStrat
+|{{#ev:youtube|rulc5XhVWc4}}
+|30.1
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|WKStart
+|{{#ev:youtube|f8XMhtUN6Ro}}
+|22.72
+|Professional+
+|
+|
+|-
+|TJEnding
+|{{#ev:youtube|nrEn96GyI98}}
+|27.33
+|Advanced
+|
+|
+|}
+==Somewhere over the Rainbow (RR Rainbow)==
+Description: Requires the cannon, which is usually only opened during 100 coins. Otherwise, beginning movement is same as RR Cruiser.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|ESS
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Tap
+|TODO
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==100 Coins==
+Description: Can be either paired with RR Rainbow or RR House. House is very scary as you need to do the carpet ride at the end without dying. There is some RNG with enemy coins.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

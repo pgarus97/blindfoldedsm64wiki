@@ -1,0 +1,190 @@
+Here you can find the current leaderboards for all main blindfolded speedrun categories of Super Mario 64!
+
+== 16 Star Blindfolded ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:21:48
+|12 Feb 2023
+|[https://www.youtube.com/watch?v=_BVl3reOMLA Video]
+|-
+|2nd
+|nobori56
+|0:23:48
+|17 Feb 2021
+|[https://www.youtube.com/watch?v=rbax_cRpYCc Video]
+|-
+|3rd
+|Hendyman
+|0:24:52
+|28 Jun 2022
+|[https://www.youtube.com/watch?v=msBwnpp5svE Video]
+|-
+|4th
+|Nico2718
+|0:38:19
+|22 Jul 2022
+|[https://youtu.be/QHfQa87bz18 Video]
+|-
+|5th
+|Zhilkan
+|1:06:47
+|7 Aug 2021
+|[https://www.twitch.tv/videos/1112154958 Video]
+|-
+|6th
+|Parsee
+|1:24:04
+|13 Feb 2022
+|[https://www.youtube.com/watch?v=pHo-iVxTD1E Video]
+|-
+|7th
+|thewizkig
+|1:32:09
+|06 Oct 2021
+|[https://www.youtube.com/watch?v=U7SP-fsKfvo Video]
+|-
+|8th
+|zserf
+|1:58:02
+|23 Mar 2018
+|[https://www.youtube.com/watch?v=srcBnWiRnCU Video]
+|-
+|9th
+|Pingu16
+|2:49:18
+|26 Dec 2021
+|[https://www.twitch.tv/videos/1244317254 Video]
+|-
+|10th
+|mojopug
+|3:08:05
+|29 Jul 2021
+|[https://www.twitch.tv/videos/1102021859 Video]
+|}
+
+== 31 Star Blindfolded ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|0:42:19
+|22 Jul 2022
+|[https://www.youtube.com/watch?v=QeLWXxOGCHY Video]
+|-
+|2nd
+|nobori56
+|0:42:45
+|5 Apr 2020
+|[https://www.youtube.com/watch?v=h4Jngy91_no Video]
+|-
+|3rd
+|Hendyman
+|0:53:40
+|18 May 2022
+|[https://www.twitch.tv/videos/1487386078 Video]
+|-
+|4th
+|Nico2718
+|2:00:52
+|31 Jul 2022
+|[https://www.youtube.com/watch?v=zTJyYJzsQLU Video]
+|}
+
+== 50 Star Blindfolded ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|1:06:58
+|2 Dec 2021
+|[https://www.youtube.com/watch?v=bHCEg76icEU Video]
+|-
+|2nd
+|nobori56
+|1:15:54
+|31 Jul 2020
+|[https://www.youtube.com/watch?v=ENFQSAly3ac Video]
+|}
+
+== 70 Star Blindfolded ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|1:25:11
+|30 Jun 2023
+|[https://www.youtube.com/watch?v=ICrVRoP8UwA Video]
+|-
+|2nd
+|nobori56
+|1:26:20
+|7 Feb 2021
+|[https://youtube.com/watch?v=OTKmt8AeX0c Video]
+|-
+|3rd
+|katun24
+|2:18:42
+|8 Sep 2019
+|[https://www.twitch.tv/videos/478572359 Video]
+|}
+
+== 1 Star Blindfolded ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Hendyman
+|0:16:50
+|12 Apr 2022
+|[https://www.twitch.tv/videos/1454021420 Video]
+|-
+|2nd
+|Bubzia
+|0:24:16
+|10 Dec 2021
+|[https://www.youtube.com/watch?v=vxqsw4JFF0I Video]
+|}
+
+== 120 Star Blindfolded ==
+{| class="fandom-table"
+!Rank
+!Runner
+!Time
+!Date
+!Link
+|-
+|1st
+|Bubzia
+|11:22:43
+|8 May 2022
+|[https://youtu.be/iC_ClvO-FZE Video]
+|}
+[[Category:Leaderboard]]
+[[Category:Speedruns]]
+__FORCETOC__

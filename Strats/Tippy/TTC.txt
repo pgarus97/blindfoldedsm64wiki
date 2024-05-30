@@ -1,0 +1,174 @@
+
+Here you can find different strats for each star in Tick Tock Clock (TTC)!
+==Roll into the Cage (TTC Cage)==
+Description: Same beginning movement as TTC Pendulum and TTC Cage.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|BuggyDRAlign
+|{{#ev:youtube|mlUZHRopCjQ}}
+|27.46
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BuggyDRAlignBackup
+|{{#ev:youtube|rys0wnR6U64}}
+|28.76
+|Advanced
+|
+|
+|}
+==The Pit and the Pendulums (TTC Pendulum)==
+Description: Same beginning movement as TTC Pendulum and TTC Cage. 
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|SingleJWK
+|{{#ev:youtube|CzxiOmssqao}}
+|29
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|UpperPlatform
+|{{#ev:youtube|HvBbJuZ2aHM}}
+|35.53
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Get a Hand (TTC Hand)==
+Description: Same beginning movement as TTC Pendulum and TTC Cage. There is an invisible wall that you need to dodge with the last longjump.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|doubleLJ
+|{{#ev:youtube|gtPjZbAl49M}}
+|21
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Flippers
+|{{#ev:youtube|Cj7OS5pJIio}}
+|9.6
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|Single Star Strat
+|}
+==Stomp on the Whomp (TTC Whomp)==
+Description: Longest star in TTC besides 100 coins. You need to climb the entire stage.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TJWKending
+|{{#ev:youtube|NIFKNcT6C5E}}
+|1.07.60
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Timed Jumps on Moving Bars (TTC Bars)==
+Description: Extremely movement heavy star. There is an invisible wall that you need to dodge at the last jump to the bar platform.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|singleJdive ending
+|&lt;nowiki&gt;https://clips.twitch.tv/ExpensiveCheerfulHorseradishHassanChop-xavh8ZV99Am_Q5HZ}}
+|38.8
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Stop Time for Red Coins (TTC Reds)==
+Description: Very easy star that can be done close to entirely with normalized movement.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|doubleSideflip
+|{{#ev:youtube|dHE3KBpz1Eg}}
+|24.4
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|singleSideflip
+|{{#ev:youtube|QAQgfrss_lg}}
+|27
+|Advanced
+|
+|
+|-
+|doubleBF
+|{{#ev:youtube|mHnpQeKiU98}}
+|32.2
+|Intermediate
+|
+|
+|}
+==100 Coins==
+Description: One of the easiest 100 coin stars, lots of boxes and close to no RNG. Should be paired with TTC Whomp.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

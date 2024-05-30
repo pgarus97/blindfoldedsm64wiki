@@ -1,0 +1,196 @@
+Here you can find different strats for each star in Bob-Omb Battlefield (BOB)!
+==Go on a Ghost Hunt (BBH GhostHunt)==
+Description: This star unlocks BBH Merry as well as the stairs to the upper floor. If you have strats with it, make sure to do this star first! You can randomly get a textbox skip in the last room.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|doubleSlidekickEnding
+|{{#ev:youtube|d3MDjHdnkJk}}
+|1.10.26
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|TJWKEnding
+|
+|
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Beginner
+|
+|
+|Beginner
+|
+|
+|}
+==Ride Big Boo's Merry-Go-Round (BBH Merry)==
+Description: Can be very consistent and easy or very difficult, but fast depending on the strats used. Requires BBH GhostHunt.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Moving
+|{{#ev:youtube|bMbfF8DHiqI}}
+|40.6
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Standing
+|
+|
+|Intermediate
+|
+|
+|}
+==Secret of the Haunted Books (BBH Library)==
+Description: One of the easiest and fastest stars in the game, every beginner should learn how to grab it!
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|InstantGrab
+|{{#ev:youtube|yTnp0Qa0fmg}}
+|11.86
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BFpunchBeginning
+|
+|
+|Beginner
+|
+|
+|}
+==Seek the 8 Red Coins (BBH Reds)==
+Description: Without being paired to 100 coins, this star is actually pretty okay. Still too slow to include in any category really.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|EarlyUpstair
+|{{#ev:youtube|ET7bKOpHmZw}}
+|1.11.10
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Beginner
+|
+|
+|Beginner
+|
+|
+|}
+==Big Boo's Balcony (BBH Balcony)==
+Description: Another fast and reliable star. The vanish cap block can potentially be in your way dependent on your strat, so be careful about that!
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|noboriSideflip+SpookyClip
+|{{#ev:youtube|HDYhNEkcc88}}
+|34.56
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|LJ strat
+|{{#ev:youtube|aQ7ODyluKqo}}
+|40.06
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|SideflipWK
+|
+|
+|Beginner
+|
+|
+|}
+==Eye to Eye in the Secret Room (BBH Eye)==
+Description: Requires the vanish cap. Be careful to not accidently run out of the boss room at the end while setting or backing up your strategy!
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|InstaBox+InstaKill
+|{{#ev:youtube|HDYhNEkcc88}}
+|32.23
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Beginner
+|
+|
+|Beginner
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==100 Coins==
+Description: Quiet RNG dependent star, but actually really okay as there are plenty of coins in the course to collect. You should pair this one with BBH Merry as you get lots of coins from the ghosts in the basement.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

@@ -1,0 +1,54 @@
+'''Welcome to blindfolded Super Mario 64 Speedrunning!''' You are curious how to start and what you need in order to play this game blindfolded? This is the right place! Before you move on to the specific [[16 Star Tutorial|tutorials]], check out following general information! '''Please read this thoroughly as it can save you precious time in the long run.'''
+
+== Choice of Platform / Controller ==
+The first question you need to ask yourself is which platform you want to play on and which controller you want to use. There are 3 options, all with their own benefits and disadvantages. It is after all a clearly preference based decision though.
+
+As I will mention "notches" of controllers in every category, you can test your notches with the input display built into Usamune. All notches should have values above 60, and in diagonals have same values for both numbers. Small variations are not problematic, but could potentially need some readjustment in strats.
+
+=== Emulator (Beginner Friendly) ===
+Emulators are the most accessible way of playing the game, as everyone surely has a rom of their game laying around and the only requirement for you is to have a PC or Laptop. Setup of some controllers can be tricky, but other than that it is a great platform to start out.
+
+* '''Controller:''' Emulator has the widest range of controllers available. While it is possible to play with a non-notched controller, I HIGHLY recommend buying or finding a controller with good notches. Preferably you can also use a Gamecube -> PC adapter (e.g. [https://www.raphnet-tech.com/ Raphnet]) to get a Gamecube Controller to work. It does not matter whether third party or original, the most important thing is that it has consistent notches. I can recommend [https://www.amazon.com/Nintendo-Switch-Battle-Zelda-GameCube-Controller/dp/B01AD478L6/ref=sr_1_1?dib=eyJ2IjoiMSJ9.F2aSa-GAiFq2aL81UEJReP3IboGUwskhEVb_4yhYfkAHGDVNDRQUV-l0tOGClZ5SQ20ye5m7Xh6t8ine6WrVi6BiTAnPphCr4EpI8ez-nSbw-D-6PDplC-YC9D8GjVgOUEdcWLxv4_x58JwaISv-7OwKbXhYf2TNqV_cGvcRrkp8cSqw3RXTSMzDrxx2EeE_qgvJhYxvJdtnDm9P281OvXyjgTmAfR5TRIoTlua1DDo.f7WLHqq_puxsj-w9AS-OarvZT5b1SmYjHroxlqt-CfA&dib_tag=se&keywords=hori+battle+pad&qid=1708166733&sr=8-1 HORI Battle Pads] to start out, as they have Gamecube layout, decent durability, a fair price (~20-40$) and in most cases good notches.
+
+* '''Lag:''' Some emulators have lag, which is mostly fixable in some way or the other, the biggest issue though is input lag from my experience. It can be a tedious process to find a setup that does give you minimal input lag, which you really want to speedrun blindfolded.
+
+* '''Practice:''' Emulator have the easiest way to practice. They have direct support for the [https://sites.google.com/view/supermario64/usamunepj/usamunerom Usamune] rom, the practice rom of Super Mario 64, as well as save states in most modern emulators. This is the only platform you can technically practice without the practice rom. 
+
+* '''Capture:''' Capturing gameplay is the easiest out of all options, as you just need a program like [https://obsproject.com/ OBS] and a window capture or even a whole display capture.
+
+=== Wii Virtual Console (For Experienced) ===
+The Wii has a virtual console adaptation of Super Mario 64. While it is not very popular with the visual speedrunning community, it is the '''best way''' to play the game blindfolded in my opinion. It has several advantages over other platforms, but comes with some initial drawbacks as well.
+
+* '''Controller:''' The classic Wii has support for the Gamecube Controller by default, which is probably the most durable controller out there, and it has one of the best notches as well. Another even more affordable and great option is a [https://www.amazon.com/Wii-Classic-Controller-nintendo/dp/B000IN0BSU Wii Classic Controller], which has even sharper notches, but does not feel as natural in the hand. There is also a drawback, as the Wii's deadzones are much, much more insensitive then the N64, making things like slow walking a bit more difficult. It is still entirely possible, but for highest comfort and level of gameplay, you would want to invest in an [https://electromodder.co.uk/ ESS-Adapter].
+
+* '''Lag:''' The Wii does not lag at all, and has the least amount of input delay out of any platform, which is great for precise movement and setups needed in blindfolded.
+
+* '''Practice:''' This is a major drawback of the Wii. In order to make the [https://sites.google.com/view/supermario64/usamunepj/usamunerom Usamune] rom work, you need several additional steps. First of all, your need need to be hacked to run Homebrew applications. After you have that running, you can [https://docs.google.com/document/d/1KzLEvPh1yZ2q9yygnimzErERal88N1Ip3ygtXxSLhjI/edit#heading=h.y36ln9i634m6 patch the Usamune rom to a Wii Format]. 
+
+* '''Capture:''' Capturing gameplay relatively simple, as you can either use a non-hdmi capture card or buy a wii-2-hdmi adapter for around 10$ which lets you output the Wii in high resolution through HDMI, and that you can capture with a HDMI capture card as well. Most of these adapters also have a audio jack, which gives the least amount of audio delay into your headphones for best gameplay. The biggest problem are Wii VC colors, as the Wii produces a very dark image for many games including SM64. You can either live with that, or try to find a way to fix the issue somehow through post-editing in OBS etc. 
+
+=== Nintendo 64 (Original Hardware / Not recommended) ===
+The N64 is the standard console for visual speedruns, therefore often preferred by runners who already have some experience in running Super Mario 64. There are a few problems for blindfolded that you need to consider when choosing this console though:
+
+* '''Controller:''' The main choice of controller is between OEM (original controller) and HORI. For blindfolded, it is very important to have consistent notches, which often is a hurdle for original controllers. The durability of the stick and the controllers also can be very short, so unless you have a steelstick or a custom controller, I would actually not advise running on original controllers. HORI's are better in my opinion, though they can be pricey and hard to obtain. 
+
+* '''Lag:''' The N64 and especially SM64 lags in quite a few places, most notably Firesea and DDD in 16 Star. This can cause unexpected problems during blindfolded speedruns, as it is much harder to adjust to lag than with eyes. If you do this route, beware that the strats in the tutorial might need adjustment, as they do not consider lag.
+
+* '''Practice:''' N64 has support for [https://sites.google.com/view/supermario64/usamunepj/usamunerom Usamune], the practice rom of Super Mario 64, but in order to make it work you need an EverDrive64 or something that plays roms from a SD card. Note: You are not allowed to do runs with this, you still need a original cartridge if playing on N64.
+
+* '''Capture:''' Capturing gameplay is actually decently okay, unless you want high picture quality. All you need it some kind of capture card that support non-HDMI input.
+In theory you could also run the game on the Nintendo Switch Virtual Console, but since there is no practice tools, it is not recommended in any way.
+
+== Learn the Visual Speedrun First ==
+This might sound like a given, but I have seen many people try to jump right into blindfolded as a fun little challenge. While it is possible (I have also started without speedrun experience), it will take you so much longer to learn anything and to grasp concepts of the movement etc. that I simply cannot recommend it. It is '''MUCH''' more efficient, if you spend a week or two learning the visual 16 star speedrun. My recommendation is to NOT START blindfolded until you have a time around 20-30 minutes in visual 16 Star.
+
+== Practice Methods ==
+Blindfolded is pretty different than visual speedruns, but the major rule still applies: practice, practice and practice even more. Blindfolded speedruns are not easy by any means, and you will spend a majority of your time doing a star over and over again. There are a few points we should discuss here though:
+
+* My recommendation for practicing is to do lots of visual training first, then jump into blindfolded attempts afterwards. You might need to teach your brain to not adjust just because its convenient and you can see, so try to stick to a strat as if you would be blindfolded. Practicing with open eyes is incredibly powerful, as you with time start to engrave the strats into your memory, you train your visual representation of the strat in case something goes wrong, and you can see problem points like how to adjust the timing on tight jumps and so on.
+
+* Memorization comes with practice. You will not need to sit down in front of a paper and learn the strategies by heart. If you practice enough, you will remember the strats out of habit.
+
+* Practice backup scenarios. When practicing visually, try figuring out problems like falling down a ledge, and then think about how you would back it up. Backups are a vital part of blindfolded speedrunning, and the more prepared you are to face them, the faster you will succeed.
+
+* I also recommend practicing stages that you do not feel "comfortable" with. Any sign of discomfort or stress means you have not practiced the stage enough, and it will show in actual run attempts. This is also true in visual speedruns, but especially in later stages of the run (MIPS, Firesea, Sky) you will be in a stress situation regardless. If you combine that with uncertainty in your strats, it will show in your gameplay and it becomes more and more luck to actually pass the stage. That is why it is incredibly important to practice those uncomfortable parts a lot, and also just do some no-reset attempts. The more times you have been in the stress situation of endgame, the less nervous you will be next time.

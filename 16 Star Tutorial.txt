@@ -1,0 +1,399 @@
+Welcome to the blindfolded 16 Star tutorial! Here you will learn how to beat Super Mario 64 without sight! A few words before we start: It is highly suggested that you have experience in Super Mario 64 and preferably the visual 16 Star speedrun category. It is possible to learn without prior knowledge of the game, but the time to study the route and the tricks needed here will increase significantly. 
+
+I will break down the tutorial into each split and star and describe those. Before starting, please read the [[Information]], [[Strat Notation]] and [[Techniques]] pages.
+
+I will note down some backups in this tutorial as well, but it is essential to improve at this category that you create a lot of your own backups or learn them from other runners in case something goes wrong. For example, you should learn how to navigate the castle in case of a game over or from exiting a course.
+
+== Bob-Omb Battlefield ==
+This is the first stage and star you will need to grab during the 16 Star speedrun. While it is the first in order, it is a rather difficult one, so I highly suggest to start with learning the star's in Whomp's Fortress first (most specifically you should learn Wild Blue as your first star). 
+
+===New Game to BOB===
+
+{{#ev:youtube|FjwG0vpwHQQ}}
+<syntaxhighlight lang="text">
+watch intro, buffer U , TBx2, U till wall, CL, U till cutscene, mario cam, TBs, U into door, buffer D, TB, wall, PB neutral, U wall, UR door
+U LJx2
+</syntaxhighlight>
+
+=== 1. BOB ChainChomp ===
+{{#ev:youtube|YE47OUnZP4w}}
+
+<syntaxhighlight lang="text">
+3TB, CL, CD, CUP, CD, 5LJ U (if hit reset), U till fence, L LJ, U after landing until wall, R until wall, UR corner, PBneutral, punch wall, 3punch, CRmax, switch to lock cam, hold lock cam, wait for chain chomp sound then immidately beatcount (1chainchomp sound, 4Zbuffer L, 11J,12GP). Jtap GP x2 more, wait for cutscene, CLmax, switch back to mario cam, L LJ into UL mash A for more LJ and wallkick into star.
+</syntaxhighlight>
+
+Make sure to take your time with the camera inputs in the beginning, as going too fast here makes the setup not work. If you get hit by a Goomba during the LJs, either reset the run or just exit course and reenter BOB to retry. Make sure to practice the way from the fence to the corner (LJ left into up hold), that is the most important movement in this star. Same as the camera setup, make sure to not rush the punches at the corner, as punching too fast can mess you up here. IMPORTANT: pausebuffer going neutral here, it is crutial to the strat to be aligned with the wall properly. The trickiest part is the beatcount at the end, as it starts from an audio cue and not a clean beat. As soon as you hear the chain chomp barking, start counting the beats at 1 and then at 4 Zbuffer left. Practice the timing for the jump at 11 and 12 GP, that can mess you up as well. You should have plenty of time for the groundpounds, but try to rather to short jumps and groundpound quickly. If the longjump into the wall is too difficult, try just holding left after the cutscene and CLmax, that should get you to the wall inside the cage. From there UL into the corner, and do a backflip while holding down. That should get you close to the star (for reference check tutorial video).
+
+==Whomp's Fortress ==
+Generally the star order is irrelevant, but I recommend learning it in the one presented here to make memorization easier, as it is what you would do in actual runs. The only exception to this should be Wild Blue, as it is the easiest star in the game and should be your starting point.
+
+===BOB to WF===
+{{#ev:youtube|ZQ2vzHQe19M}}
+
+<syntaxhighlight lang="text">
+reenter BOB, exit course, UR wall, U wall, L door, U LJs into WF
+</syntaxhighlight>
+
+===2. WF Boss===
+{{#ev:youtube|le60auNoNt8}}
+
+<syntaxhighlight lang="text">
+(4TB), CL, buffer U till 5 wall sounds, J on 6, go neutral on 8 (or hearing the wall), neutral DJ getup, mario cam, U till sign (can LJ for speed), J lakitu cam till slide, neutral till mario getup, R taps till warp, UR buffer LJ into pole (can walk a bit into singleJ as well), all the time U till top with 1x CR (1up sound), fullJ, keep U till 3TB, wait for 3 fast steps, J GP, 9-10 fast steps, J GP, 3 fast steps, J GP, TB, CR,
+J D, R J into star
+</syntaxhighlight>
+
+A few things to note for this star. There are a couple of sections where you can speed up to your liking with e.g. longjumps on the slope. It is really important that you went back to mario cam in the setting in BOB, as you instantly need to use it here. If you have troubles with grabbing the pole, your notches might not be straight, but you can probably find an own strat to make up for it. Inconsistent is the star grab after the boss fight. Test how it works for you in practice. Dependent on how high you groundpound on the boss etc., the position at the end will differ. Sometimes you don't need to jump down adjustment, sometimes you do. Find a strategy that works best for you.
+
+===3. WF Blue===
+{{#ev:youtube|CM3OpdKEyS4}}
+
+<syntaxhighlight lang="text">
+U LJ UR tree, 5-6 climb sound into J till water, L on landing till wall, UL till wall (sometimes coin), J UL till wall, U till wall, UL till wall, PB kick, CL, Zbuffer D -> U sideflip wallkick R into star 
+</syntaxhighlight>
+
+Quiet important that you do this star before WF Tower, as otherwise you will activate the owl with the tree jump. Nothing to special with this star, just follow the walls and you should be able to make it. The timing on the sideflip at the end is something you just need to practice and develop muscle memory for. You can easily retry it though, by pressing CR, UL notch till corner, repeat the strat with CRmax CL to reposition the camera after the kick. Also important that you hold R after the wallkick.
+
+===4. WF Tower===
+{{#ev:youtube|aRzCqxMH-Tc}}
+
+<syntaxhighlight lang="text">
+CL, buffer U till 5 wall sounds, J on 6, go neutral on 8 (or hearing the wall), neutral DJ getup, mario cam, U till sign (can LJ for speed), J lakitu cam till slide, neutral till mario getup, R taps till warp, UR buffer LJ into pole (can walk a bit into singleJ as well), all the time U till top with 1x CR (1up sound), fullJ, ledgegrab neutral, CL, U till wall, instant J ledgegrab getup, L tap, punch, on beat, 1J,2DJ+L,3WK, keep L till wall sound, neutral, J UL when elevator on top, U till 2nd wall sound, punch, J for star
+</syntaxhighlight>
+
+Exactly same beginning as WF Boss until the pole 1up. From there, it is important to practice the beatcounted wallkick onto the elevator. If you fail it, you can try to find the ledge again, hit CL max, keep holding L till regrab, CL one more time, getup, L tap, punch, ... repeat the strat. It is also easy to get lost on top of the tower, once you are up though, you cannot fall down if you do not jump. As long as you only do neutral jumps to search for the star, you will find it eventually. Keep punching the wall into neutral jump, if not, hold U a bit and repeat.
+
+===5. WF Cannonless===
+{{#ev:youtube|nTNEIAATKhE}}
+
+<syntaxhighlight lang="text">
+U LJ UR tree, CLx2, full U, FJ on 2nd owl sound, 3TB, buffer D during TBs, 2nd owl sound J hold A for owl, neutral, let go of A at 3.5 owl sounds, U till ledgegrab, CL, getup, 2xpunch, beatcount: 1Zbuffer D, 2.5J 3neutral, D ESS ledgegrab, getup, BF, CL+punch on landing (needs to be quick), D ESS ledgegrab, CR CL into U getup D buffer for star
+</syntaxhighlight>
+
+Cannonless unfortunately is a very random star. There are so many tiny nuances and so many things influence whether the angle and position is correct, that my biggest advice is to just quickly exit course and reenter when it fails. Try to replicate the camera movement at the end as close as possible to the video, and be sure to practice the beatcounted jump over the plant. It can also happen that you ledgegrab or even land on the boss platform after the owl. In that case you counted to much, but it is easily fixable by (getting up) and jumping a tiny bit DL with a kick at the end to avoid damage, from there you can follow the strat as normal.
+
+=== 6. WF Owl===
+{{#ev:youtube|PFqWnUX4Skc}}
+
+<syntaxhighlight lang="text">
+U LJ UR tree, CLx2, full U, FJ on 2nd owl sound, 3TB, buffer D during TBs, 2nd owl sound J hold A for owl, 2.5 owl sounds R, 12 owl sounds neutral release A GP mash into star
+</syntaxhighlight>
+
+The owl is a fast star, but it is kind of controller dependent. If your controller has a range of 127 (Wii VC) it will be different than N64 controllers, so you might need to adjust the owl flaps to your own controller here. If you land in the cage but don't hit the star, simply hold into the wall, punch and jump to grab it. If you fail, simply exit course and retry, though be aware that your HP might be low.
+
+===WF to CCM===
+{{#ev:youtube|H3bPCffXa-c}}
+
+<syntaxhighlight lang="text">
+reenter stage, exit course, buffer U with UL tap till door, LJx2 into painting (or just U with J upon hearing wall)
+</syntaxhighlight>
+
+==Cool Cool Mountain==
+
+===7. CCM Slide===
+{{#ev:youtube|Fi8iLsABgLE}}
+
+<syntaxhighlight lang="text">
+CR, U LJ tree, CL U hold till red, jump dive, into bonk, buffer D until music cue (restart of pattern) or 22 beats,
+U hold a bit into UR till fall till wall hug, PB neutral, PB kick, Zbuffer UL, follow wall to door, CRmax, Zbuffer UL LJ after 4 steps
+</syntaxhighlight>
+
+Very important with this star is to buffer before the transition into the slide. Practice the timing of holding up on the slide either with a music cue or a beatcount.
+
+===8. CCM Wallkicks===
+{{#ev:youtube|RL26KwLgFwM}}
+
+<syntaxhighlight lang="text">
+buffer D till in snow, buffer U till wall, 
+around 15 wall sounds into neutral (ledgegrab), BF neutral into UR (timed), 
+UR till corner, R hold, 3BF, CL, Zbuffer D into U sideflip muscle memory timed wallkick chain U kick UR kick UL kick UR star
+</syntaxhighlight>
+
+The beginning of this star should be relatively easy. Unfortunately, there is no real strategy for the wallkicks, you just need to practice the timing. It's like a level up of the Wild Blue wallkick.
+Important to know is how to back up failing the wallkick, as it is pretty easy to retry. You can CLmax while holding U, which will lead you back to the corner, then do CR into UR and you are back at the initial setup.
+
+====(Extra Star: CCM LilPenguin)====
+{{#ev:youtube|ek7UQJIZ7os}}
+
+<syntaxhighlight lang="text">
+U into corner, J x3, UL build speed, J , PB R, unpause + J + dive, keep R till slide getup, U all the way, CL right when mario starts screaming from fall, neutral on hearing 5 steps after getup, J D x2, R 4 steps into J, R into penguin TB, buffer U during animation, 
+U for few steps into UL wall, CRmax U till wall, CL UL corner, DL till 3 steps into LJ star
+</syntaxhighlight>
+
+This star is a replacement star, either if you struggle with HMC Amazing Exit, or if you want to start going faster and skipping BBH entirely. Try following exactly what is happening at the input display and practice this star a lot, as it is quite tricky. If you are too high or to low with falling onto the penguin, try adjusting the just or the timing when to stop holding U after the slide.
+Important to note is that Japanese and English version of the game need different ending strats here. For Japanese, you need to mario cam DJ U after the TB and hope that you are aligned.
+
+===CCM to BitDW===
+{{#ev:youtube|yc199iy4Dec}}
+
+<syntaxhighlight lang="text">
+reenter stage, exit course, mario cam (wait a bit), U into door, lakitu cam, TB, L buffer till wall, UL till wall, R into door, U into stage
+</syntaxhighlight>
+
+==Bowser in the Darkworld==
+{{#ev:youtube|V9u8-zcjYFY}}
+
+<syntaxhighlight lang="text">
+buffer R during TB, click TB, R until 2nd coin, pseudo count 3rd coin sound into LJ, 
+punch, BF hold L to cross elevator, getup, Zbuffer L kick, UL LJ onto bridge, U till wall
+BF, Zbuffer L until wall, 2 beat UL into U until wall, CL, neutral, CL, beatcount: 1Zbuffer U 6 LJ, ledgegrab getup
+CL, beatcount: 1 Zbuffer U, 3 LJ, mash 2nd LJ, 7UR ledgegrab getup, CR, Zbuffer U till wall, listen for goomba kill, U J CR into wall,
+CL, U till wall (can LJx2), beatcount: 1 Zbuffer R 3 J into ledgegrab, getup, 
+ESS R, BF U tap, L tap (for spacing), D ESS ledgegetup, J U into ESS L for switch, 
+U into wall, U J x4 in rhythm of coins, then on pseudo 5th coin LJ into ledgegetup, punch for bowser entry
+</syntaxhighlight>
+
+The first Bowser stage, and it really ramps up in difficulty. There are a few things to consider in this stage.
+After the first elevator, there is actually some Goomba RNG. If you get hit, just reset the stage, it can happen. 
+Especially tricky are the longjumps over the middle platform. Try to practice this jump a lot to get a feeling for it,
+as you might over or undershoot depending on your timing and mashing speed of the second longjump. Then there is some more Goomba RNG
+at the end of the stage. Important for the switch section: Contrary to the video, try to land on the grey area after the BF U tap before
+you renormalize for the switch.
+
+==Bowser 1==
+{{#ev:youtube|_fpR90HEkOI}} 
+
+<syntaxhighlight lang="text">
+TB, beatcount 1TB,2CL,3L,9neutral, 12.5 punch; buffer L beatcount: 1A, 2DL, 4UL,6 punch; 
+repeat: 1A, 2UL, 4DL, 6 punch, mash A for bomb hit
+wait till 3rd landing sound, then R, TBs, mario cam, wait for 3rd key landing sound into Zbuffer U for key
+</syntaxhighlight>
+
+Practice the bowser drag beatcount well, we will need it for the second Bowser fight as well.
+In this particular fight, there is a 10% chance that Bowser dances. You can delay the beatcount for going neutral a tiny bit, but it might not be a consistent backup,
+so feel free to just retry the fight if you get bad luck.
+
+==Shifting Sand Land==
+
+===Darkworld to SSL===
+{{#ev:youtube|cOiNr73oKVk}}
+
+<syntaxhighlight lang="text">
+U reenter BitDW, exit course, buffer U for door
+buffer UR into fall, U into wall, UL into door
+U into fence, J + CL into wall, UR , UL into door
+UR till 2nd wall, UL wall, U wall, UR wall, UL wall, U wall, UL wall, UR J painting
+</syntaxhighlight>
+
+===9. SSL Pyra===
+{{#ev:youtube|EVI4s5otwDg}}
+
+<syntaxhighlight lang="text">
+CR, Zbuffer D, 3 klepto bird beats neutral , CL x2,
+PB L PB neutral, punch till box, on third bounce U hold mash Z, 
+CL max U till corner, U until wall sounds into PB neutral, punch, BF, slide getup, 
+BFx2, CR, Zbuffer U into 10 non sand steps LJ, 4 steps into J dive for star
+</syntaxhighlight>
+
+This star is fast but there are some ticky parts to it. Getting over the slope in the beginning is the worst part.
+Try getting consistent at the box grab, the rest should be okay. You can also check intermediate strats for different approaches if this one does not suit you well e.g. BFs into TJ dive over slope.
+Try getting used to the various counts in this star as well, the klepto wing beat and mario's footsteps especially.
+
+==Hazy Maze Cave==
+
+===SSL to HMC===
+{{#ev:youtube|hoQA39nzPf4}}
+
+<syntaxhighlight lang="text">
+R 2nd wall, U, CL, mario runs, 2LJ, U door, U J into HMC
+</syntaxhighlight>
+
+===10. HMC Nessy===
+{{#ev:youtube|IruBdNsCSso}}
+
+<syntaxhighlight lang="text">
+crouchturn CR, U, 15 steps after wall sounds, neutral, Zhold U J instant LJ on landing, switch to lock cam, U wall into UR/R door
+UR wall, U (kill scuttlebug), U till no wall into UR till door, release lockcam,
+beatcount: 1 Zbuffer U, 6neutral + kick (A+B), 8U , 11CL, 12CL, 16UL 18 dive into star
+</syntaxhighlight>
+
+The first long beatcount in the run! With this star, you can master beatcounting for sure, its good practice!
+The scuttlebug on the way can hit you, so try to kill it with a jump as soon as you hear its sound. 
+Dependent on which star you do first, you need to activate lockcam or you have it activated already.
+
+===11. HMC Amazing===
+{{#ev:youtube|gXipOXflMYs}}
+
+<syntaxhighlight lang="text">
+crouchturn CR, U, 15 steps after wall sounds, neutral, Zhold U J instant LJ on landing, switch to lock cam, U wall into UR/R door
+CUP,max R, lock, B, U wall UR corner, (kill scuttlebug), BF punchx2 BF, U ESS tap, kick U DJ wallkick ledgegetup, beatcount: 1 Zbuffer U, 4 L, 5LJ, 7neutral; ledgegetup,
+release lock, J U into star
+</syntaxhighlight>
+
+Probably one of the hardest star in the route, you can potentially swap this one out with CCM Lil Penguin if you struggle.
+The order of stars is not very important in HMC, as long as you end with rolling rocks. 
+The scuttlebug on the way can hit you, so try to kill it with a jump as soon as you hear its sound.
+Most important in this star is that the setup allows retries in failed wallkicks. The timing is again practice and muscle memory, but
+if you fail it, you can hold R into UR to reach the corner and retry with the same setup.
+
+===12. HMC Rolling Rocks===
+{{#ev:youtube|MbNJ6FHd1eE}}
+
+<syntaxhighlight lang="text">
+crouchturn CR, U, 15 steps after wall sounds, neutral, Zhold U J instant LJ on landing, switch to lock cam, U wall into UR/R door
+hold lock cam, buffer U 4-5steps into LJ mash x5, after 5th LJ UR tap (to prevent bonk), U will wall, UR Jx4 till corner, U hold build speed (unref wallkick setup), U + beatcount 1J 2DJ 3unref WK L -> D, 5J into star
+</syntaxhighlight>
+
+Rolling rocks has some RNG with the stones. If you get hit, just keep holding U until you reach the wall. The unreferenced wallkick part can be hard to understand, so check out the video listed in [[Techniques]]. After a bit of practice it should be easy to perform. 
+
+===13. Toad & HMC to BBH===
+{{#ev:youtube|eOsjnUQ6PUA}}
+
+<syntaxhighlight lang="text">
+TB (save), U LJ into punch for toad, J (NO GP) into star, buffer R during TB (or after saving for more safety) back into HMC
+exit course
+buffer U into basement door, U till wall, CR, U till wall, UL into door
+mario cam (wait a bit), U till wall, 10 steps into slidekick, BFx3 into stage
+</syntaxhighlight>
+
+Very important: Make sure to switch back to Mario Cam upon reentering HMC.
+
+== Big Boo's Haunt ==
+
+===14. BBH Library ===
+{{#ev:youtube|J_ergq-3_Rs}}
+
+<syntaxhighlight lang="text">
+TB buffer U till wall, J UL tap into door, BF punch x2, muscle memory R -> L sideflip WK U, UL tiny bit before landing into door, J -> DL -> DJ to cross gap, D into punch, R into punch, J for star
+</syntaxhighlight>
+
+Important here is to practice all the jumps as they are mostly muscle memory. Try to learn a backup for each failed jump, as you can usually easily refind the main entrance of BBH and then enter again to retry the entire thing. Make sure you enter the LEFT door (also when doing backups). If you hold R into DR after exiting the house, you will always reenter the left door.
+
+==BBH to LLL==
+{{#ev:youtube|Q7kJcPqkBng}}
+
+<syntaxhighlight lang="text">
+TB (save) into mario cam wait a bit, U into door OR TB instantly DR for door
+U till wall / UL into door
+U into fence, J + CL into wall, UR , UL into door
+UR till 2nd wall, UL wall, U wall, UR wall, U wall, UL J into U J for stage
+</syntaxhighlight>
+
+Important note: If you know that you are low on 1-ups due to previous deaths in the run, it might be wise to save + quit after BBH to start again with 4 1ups and then go to LLL. You do want to do LLL + MIPS + DDD + Firesea with as many 1ups as possible, as any game over there means you have to do all of that sequence again.
+
+==Lethal Lava Land ==
+
+===15. LLL Vulcano===
+{{#ev:youtube|lkoiiF7Fpz8}}
+
+<syntaxhighlight lang="text">
+instantly mario cam, TB, U 6-7 steps LJ UL tap, U till wall neutral, lakitu cam
+1Zbuffer 3LJ (bully footstep beat) mash keep U till vulcano entry
+instantly count bully steps and buffer R: go neutral on 9, 15 Zbuffer R, 17 LJ into pole, U CR mash till 30, U tap into J R pole
+U ~15 climbs + CL into UL hold J tiny bit delayed dive mash rollout into star
+</syntaxhighlight>
+
+Another long beatcount, this time inside the vulcano. Important to know is that if you fail, you can restart right in the vulcano on reentry.
+Also try to time the first pole climb in practice well, as you will get burned if you are too slow, but not get the pole jump animation if you are too fast. For the last jump, try delaying the dive a tiniest bit after the jump to gain maximum distance.
+
+==MIPS Clip==
+{{#ev:youtube|AtFSJQdfuec}}
+
+<syntaxhighlight lang="text">
+TB (save), instantly punch x3, mario cam, punch x2, lakitu cam, beatcount: 1Zbuffer U, 6.5CL, 7LJ, 10 dive for MIPS
+TBs into star spawn, gegrab MIPS, count steps, 10U, 7UR, 30U, (corner), mario cam, CD mash (min x3), neutral, regrab x4, CR (nothing happens), CR again (sound)
+Clip 1: count mario's footsteps, U 4crouch, DR notch turnaround (hold a tiny bit), neutral release Z, punch grab, D , lakitu cam, FJ, 15 steps till corner, PB neutral, PB UR for 5 steps into 30 music beats U (corner), FJ, PB neutral, 4xJ L (start neutral into L midair), 10 beats U, Rtap instant B, regrab x4, PB UL, beatcount: 0.5 crouch (or on feel), keep UL till wall, U into DDD
+</syntaxhighlight>
+
+Very important section here to practice. Especially the catch and both clips need to work for you, as otherwise you need to reset the console on failure and reenter LLL, potentially regrabbing the Vulcano star. There are potential backups, but I would highly encourage to redo LLL Vulcano for additional practice and then rather practice the actual MIPS strat more often. There is no trick here, just practice, practice and more practice, especially practice to lessen your nerves during runs, as missing this will eventually become a run killer when your PB is more optimized. If you decide to learn backup strats, watch some PBs of other runners, old and new, as they all follow the same basic MIPS clips but sometimes with different approaches.
+
+== Dire Dire Docks ==
+
+===16. DDD Sub===
+{{#ev:youtube|GeJ5g_ZHU58}}
+
+<syntaxhighlight lang="text">
+buffer UL + A, 2.5 swim sounds into neutral and start fast swimming: 2 neutral, 6 U, 10 neutral, 10 D (get air), neutral a bit, 2 neutral , 1 UR, U pswims until you hear clam sound, 12 pswims neutral after clam sound, then 5 D into air, neutral a bit, D ESS hold 3-4 pswims full D jump out, U wall, mash CR until wall, UR PB corner, mario cam PBkick, wait for camera, PB UR PB neutral, wait for camera, CD, punch, 5xBF mashed, keep mashing but last 2xBF (Bf number 6+7) with D hold, neutral right before landing, beatcount switch sounds: 1 Zbuffer L , 3LJ, 4UL, mash second LJ into L into star (backup if failed: BF then J around)
+</syntaxhighlight>
+
+Important: If you get lost or fail in DDD, try to drown yourself and DO NOT EXIT COURSE. This will result in you having to do MIPS clip again. Drowning is slow but will instead get you back in front of the stage for another retry.
+Also important is that you practice to be consistent with fast swims (timed A presses). If you fail too many swims, the strat might not work anymore.
+In the first section, you can hear whether you got into the tunnel or not by listening to the change in music.
+
+===DDD to BitFS===
+{{#ev:youtube|l62G1qtxccU}}
+
+<syntaxhighlight lang="text">
+5BF, U tap during last one
+</syntaxhighlight>
+
+==Bowser in the Firesea==
+{{#ev:youtube|QsKPeRgk2Q4}}
+
+<syntaxhighlight lang="text">
+buffer R till music cue after tophats(?), LJ into getup, U hold punch BF, music cue: second loop of music beatcount: 1 Zbuffer R 3.5 LJ,
+start beatcount when music starts main part: 3 J, 8 LJ (after heart), mash out another LJ into pole, U into CRx2, U a bit longer then J , J again over second platform, J again into pole, IMPORTANT MUSIC CUE: 3 beats after new music cycle after high pitched note J, keep counting, 20 LJ, keep U till music cue: high note in 2nd music stair PB neutral, music cue: long high pitch note, U J UL , U wall BF, Zbuffer R, wait for flame sound, D into wall, J tap ledgegetup, beatcount: 1 Zbuffer L, 4 LJ, 5 neutral, ESS L till ledgegetup, ESS D till ledgegetup, (if bomb sees you, just neutral and getup after explosion, it will not kill you), CLx4, hold Z/crouch, beatcount: 1 BF UR, 2 R, 3UR, 3.5 neutral,
+BF U hold mash x14, neutral before landing, beatcount: 1 Zbuffer U, 6 J into UL on landing U into bowser 2
+</syntaxhighlight>
+
+Firesea is probably the hardest stage together with Sky, so practice this one a lot! 
+Music cues are really hard to describe in text, so watch the reference videos closely.
+If you have troubles catching the music cues in the beginning, you can try to look at other strategies and implement them. The only important part is that you are able to catch the music cue on at the pole. If you miss that, try to reach the pole somehow to get the 1-up and just retry.
+As I said, there are lots of music cues and beatcounts, so practice this stage especially thoroughly and make sure you have a decent consistency at it before doing attempts.
+
+===Bowser 2===
+{{#ev:youtube|DowvKX3zhD4}}
+<syntaxhighlight lang="text">
+TBx2, CL, neutral till getup after hit, punch x2, wait, punch on 2nd bowser step, beatcount: 1 A buffer DL , 5 UL, 6 A, repeat but upper way: 1 A buffer UL, 5DL, 6A, mash A for bomb hit, wait till 3rd landing sound into R, 4TB, mariocam, 3rd key sound into Zbuffer U
+</syntaxhighlight>
+
+Important note: Same as after BBH, you will want to save + exit after Firesea if you have died more than once since LLL to replenish your 1ups for Sky. Trust me, it is worth to take the few seconds of timeloss and going to the upstairs door from selecting file again.
+
+===FS to Upstairs===
+{{#ev:youtube|U3RvvVO-BtA}}
+
+<syntaxhighlight lang="text">
+TBs (save), 2xBF, BF GP into FS, exit course, mario cam, wait a bit, U into door
+</syntaxhighlight>
+
+==BLJs ==
+{{#ev:youtube|51S2NXKDEvk}}
+
+<syntaxhighlight lang="text">
+U wall, UL till door, buffer UR kicks , after 2nd kick R into wall, tiny UR into R tap, PB D into run a bit into LJ, perform BLJ while keep holding U, U until you start hearing the clock getting louder and more into left ear (that means you are through), U till corner (can tap UR sometimes), PB neutral, punch, BFx2, R into wall, J + UR, 4x  J and on last J switch from UR -> U, U till door
+2nd BLJ: mario cam, punch, Zbuffer U till endless music, PB neutral, lakitu cam CD, Zbuffer D into LJ start BLJ, at end of room: hold a bit UL into UR to search for pillar corner, PB neutral, neutral J, BF L -> DL into bowser stage
+</syntaxhighlight>
+
+{{#ev:youtube|yJ9WcBUK4gw}}
+
+<syntaxhighlight lang="text">
+backup 1, 50 star door: U wall into UL till TB, press TB buffer UL a tiny bit so mario aligns with wall, PB neutral, PB kick, CD in rhythm of beat, beatcount: 1 Zbuffer D, 9.5 R into wall, CR, CUP, CR repeat BLJ
+backup 2, infinite staircase: if you fail the BLJ at any point, hold R into wall, CR, punch into neutral, Zbuffer D repeat BLJ
+backup 3, finding Bowser stage: you can try to always find the pillar corner, but if you miss the entrance with the BF, you are likely close to it, so either hold U into wall, then J kick (perfect distance into stage), or try to reposition a bit while jumping (not just moving the stick as the camera would mess up!) 
+</syntaxhighlight>
+
+The first video shows a perfect run, the second a very important backup that you should learn for when you fail BLJs. BLJs are best practiced with eyes, they are not much different than visual BLJs besides the starting position being more random. The BLJs can also sometimes fail even if you get perfect speed, keep that in mind.
+Endless staircase: you can start to hear that you left the infinite stairs by listening for Mario's longjumps. If you are on the stair, the airtime of Mario is shorter. Sometimes even if you build speed, you will not get past the stairs, so listen carefully for whether you really are up or not.
+
+==Bowser in the Sky==
+{{#ev:youtube|WeTIej2R4dM}}
+
+<syntaxhighlight lang="text">
+buffer R on entry, start beatcounting 1 on music cue "start of music" , 6 J, 8 J, 10 J (getup), 12 J, 14 J, 16 J (getup), 18-19 LJ (dependent if you get fast or slow getup), mash out another LJ, (eventually goomba sound) R till wall, U wall (!UL tap during run), beatcount 1L 4LJ, UL tap during LJ, mash out another LJ, L wall, D wall, PB neutral (in video I don't and it messes up my angle, that's why its important), BF, punch, wait for music cue ("start of new music section") beatcount: 1 Zbuffer L, 4 J, 8 J, 10 neutral, 12 J (getup), 14 BF R -> UR tap, 3 beats R into LJ, (getup), silly kicks until dive rollout, R till fire sound, L delayed LJ, neutral on second landing sound, neutral till ledgegrab, (hold L till wall, J)x4, ESS U ledgegetup, 3 punches, CRx2, beatcount: 1 Zbuffer U , 3 LJ (DONT HOLD A), 10 J, CRx4, all the way up pole (50 climb sounds), beatcount 1J 4LJ, after red: Jdive U till wall, L till flame sound gone, U till wall, R till wall, PB neutral, punch, BF, Zbuffer D wall, PB neutral, BF, punch x3, BF, hold Z, wait for music cue, 
+start beatcounting 1 on music cue "start of music" BF U, 3 neutral, 12 J -> D getup neutral, 18 D getup, beatcount: 1 Zbuffer D, 6 neutral, L till wall, check for Goomba with GP, L till wall, L hold J, wait a bit then mash out dive rollout, L till wall, UL till corner, U wall punch,  L till wall, L hold: FJ wall x3 (neutral on last wall), neutral J getup, punch into bowser
+</syntaxhighlight>
+
+The longest and probably hardest stage in the run. Same as in Firesea, make sure you memorize the music cues for the elevators in the beginning and the ending. It does not matter how fast you do the strats, as long as you reach the music cue timing. That's why you can just keep going if you get hit by a RNG Goomba in the beginning.
+The middle part with the moving platforms might need some practice as well. Try always doing the jump a tiny bit delayed after you hear Mario reaching the wall.
+The last elevator is especially important to practice. There is also final Goomba RNG. If you get hit during your run through the wind, keep holding L and hope you arrive at the wall, they will stop chasing you there. If you get pushed too far up, the UL hold will not result in a corner, but a ledgegrab. In that case react fast, getup again and keep holding DL into the other corner. If you know that you have 0 1-ups, you should get the extra 1-up before entering the Bowser fight like described at the end of this video. 
+
+<syntaxhighlight lang="text">
+From death in Bowser 3: on 2nd beat L 4 R 5 U till wall, UR till corner
+From left side corner: DL into 1up sound (react fast after hearing it), PB UR -> U till wall, UR till corner
+</syntaxhighlight>
+
+===Bowser3===
+{{#ev:youtube|LlQbo0dwKuc}}
+
+<syntaxhighlight lang="text">
+buffer U, 3TB, count and PB neutral at 4th bowser steps (first two might be fast), get hit, punch grab, spin a tiny bit counter clockwise and release, buffer D during animation, PB on 3rd bowser landing sound R, PB neutral in the middle of Bowser's 1st step sound, get hit, release into bomb, buffer L during animation, PB D as soon as earthquake sound starts (anticipate at around 6th pseudo bowser landing beats), PB DR on second bowser stomp sound, unpause and tiny bit delayed dive for tail, grab, release, keep A hold, kick -> R tap mid air, L on 3rd bowser step, punch again at 3.5th step sound, beatcount: 1 A release -> buffer UL, 7DL, 9punch, spin counter clockwise, listen for whoosh sound of bowser, throw right after whoosh sound has started (practice!!!), hit bomb, R AFTER bowser dying sounds, 5TB, neutral, BF into star
+</syntaxhighlight>
+
+The last Bowser fight is unfortunately also extremely difficult. Learn all the timings for the pausebuffers well. While waiting for Bowser to charge, it is a 50% that he jumps instead. In that case you can try to (kick, kick, DJ kick DJ, see videos of Bubzia's runs for reference) to avoid the shockwaves. If he jumps more than 4-5 times for the first bomb or around 7-8 times for the second bomb, he will do a flame attack next. There is nothing you can do about that, just die reset the fight. Also practice reentering the fight and grabbing the 1up (see previous section).
+As for the last throw, you can do the beginner strat of dragging him closer to the bomb first. That greatly increases the frame window for the throw to actually hit. You can also try to throw him instantly after the first grab, though you will only have 1-2 frames to hit the bomb from that position. 
+There is no secret trick for the whoosh sound timing. Just practice, practice and practice it even more. It is roughly 1-2 frames AFTER the whoosh sound starts playing, so you should anticipate when the sound starts playing, then press A "into" the beginning of the sound. If your finger is moving towards the button right when the whoosh sound starts, that's around the right timing.
+
+==Conclusion==
+Congratulations! You have made it through the entire blindfolded 16 Star tutorial! Remember, blindfolded gaming is hard, requires a lot of time and practice, and it is totally normal if you make slow progress. Every new star that you learn and can grab consistently is a major win. Especially the last section (MIPS, Firesea, BLJs, Sky, Bowser 3) is especially difficult, but do not get discouraged! Only a few people in the entire world have managed to do it so far, so rather take it as a motivation to try to practice and master these stages even more!
+If you have any questions about the run or the tutorial, feel free to leave a comment on the linked full tutorial video on Youtube, or write Bubzia a message anywhere on social media. He will go through all the questions regarding the tutorial and will try to help to the best of his ability.
+
+Thank you very much for reading, and we wish you very good luck! Have fun!

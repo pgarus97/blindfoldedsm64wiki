@@ -1,0 +1,31 @@
+= Abbreviations =
+Here you can find information about the notation that you will see for explaining strategies!
+
+== Stagenames: ==
+
+* BOB = Bob-omb Battlefield
+* WF = Whomp´s Fortress
+* CCM = Cool, Cool Mountain
+* PSS = The Princess´s Secret Slide
+* BitDW = Bowser in the Dark World
+* SSL = Shifting Sand Land
+* HMC = Hazy Maze Cave
+* BBH = Big Boo´s Haunt
+* DDD = Dire, Dire Docks
+* BitFS = Bowser in the Fire Sea
+* BitS = Bowser in the Sky
+
+== Inputs/Movement: ==
+
+* TB = TextBox
+* U,D,L,R = Analog Stick Directions (up, down, left, right and corresponding combinations UR = upright etc.)
+* C + Direction = camera c-button direction e.g. CL, CR, CUP, CD
+* FJ = FullJump (A Pressed as long as possible)
+* DJ = DoubleJump
+* TJ = TripleJump
+* SF = SideFlip
+* BF = BackFlip
+* WK = WallKick
+* LG = LedgeGrab
+* PB = PauseBuffer
+* PBkick = PauseBuffer kick (see [[techniques]])

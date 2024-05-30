@@ -1,0 +1,567 @@
+Here you can find different strats for all the castle movement in SM64!  
+
+Use the legend with the stage you want to enter, for example choose SSL if you want to know how to get TO SSL from other stages! 
+
+For MIPS clip, check out DDD! For BLJs, check out Sky! 
+
+==BOB==
+Description: Usually the first stage you need to enter, so most important is new file to BOB.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|Castle Ground to BOB
+|{{#ev:youtube|FjwG0vpwHQQ}}
+|<syntaxhighlight lang="text">
+watch intro, buffer U , TBx2, U till wall, CL, U till cutscene, mario cam, TBs, U into door, buffer D, TB, wall, PB neutral, U wall, UR door
+U LJx2
+</syntaxhighlight>
+|
+|}
+
+==WF==
+Description: Usually the second stage you need to enter.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to WF
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BOB to WF
+|{{#ev:youtube|cPq23SfVgI8}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BOB to WF Beginner
+|{{#ev:youtube|ZQ2vzHQe19M}}
+|<syntaxhighlight lang="text">
+reenter BOB, exit course, UR wall, U wall, L door, U LJs into WF
+</syntaxhighlight>
+|
+|-
+|Reset to WF
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==CCM==
+Description: Usually the third stage you need to enter.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to CCM
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|WF to CCM
+|{{#ev:youtube|cJr4Ocf50oE}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BOB to CCM
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Reset to CCM
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==PSS==
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to PSS
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|WF to PSS
+|{{#ev:youtube|sRBcCYR690E}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BOB to PSS
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Reset to PSS
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Darkworld (DW)==
+Description: Needs 8 stars to enter.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to DW
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|CCM to DW
+|{{#ev:youtube|KOyh0UkT9_k}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Reset to DW
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==BBH==
+Description: Only opens after 12 stars.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to BBH
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Double LJ from door
+|{{#ev:youtube|hcTeD1zFsME}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==SSL==
+Description: Usually the first stage in basement you need to enter.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to SSL
+|{{#ev:youtube|cOiNr73oKVk}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Basement to SSL Pro
+|{{#ev:youtube|vBKP_BR3k0E}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==HMC==
+Description: Usually the second stage you need to enter in basement.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to HMC
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|LLL to HMC
+|{{#ev:youtube|lDlDbJ5Rynw}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|SSL to HMC
+|{{#ev:youtube|hoQA39nzPf4}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|HMC to Toad to HMC
+|{{#ev:youtube|37siqDvKZOE}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==LLL==
+Description: Usually the last stage you need to enter, as you want to catch MIPS from this stage.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to LLL
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|HMC to Toad to LLL
+|{{#ev:youtube|-2n7ff68oNo}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+| You will want to grab Toad on the way here.
+|-
+|SSL to LLL
+|{{#ev:youtube|oqrQM71Xs5k}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==DDD (MIPS CLIP)==
+Description: Usually the after LLL. MIPS clip is needed for 16 star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to DDD
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|LLL to DDD
+|TODO for 31 star
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|LLL to DDD Mips Clip Beginner
+|{{#ev:youtube|AtFSJQdfuec}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|LLL to DDD Mips Clip Professional
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Firesea==
+Description: Needs to first be opened by first star of DDD.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to Firesea
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|DDD to Firesea
+|{{#ev:youtube|aRHwm2SgNu8}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Sky (BLJs)==
+Description: The last movement you need to do in runs. BLJs are included here
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to Sky (BLJs)
+|{{#ev:youtube|51S2NXKDEvk}} 
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Some BLJ Backups
+|{{#ev:youtube|yJ9WcBUK4gw}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|TTC to Toad to Sky
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Vanish==
+Description: Usually you do this after HMC only in 70 Star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|HMC to Vanish
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==WDW==
+Description: Usually the first stage you need to enter in Upstairs.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|UpstairDoor to WDW
+|{{#ev:youtube|ZoSxI_7kpA8}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==THI==
+Description: Usually the second stage you need to enter in upstairs.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to THI
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|WDW to THI
+|{{#ev:youtube|oD0D7URWsdc}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==TTM==
+Description: Usually the third stage you need to enter in Upstairs. You will want to grab the Toad on the way.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to TTM
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|THI to Toad to TTM
+|{{#ev:youtube|lWpfRN_mEQI}}
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==SL==
+Description: Usually the last stage you need to enter in Upstairs.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to SL
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|TTM to SL
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==RR==
+Description: Usually the first stage you need to enter in Tippy.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to RR
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==TTC==
+Description: Usually the second stage you need to enter in Tippy. It is important to keep track of the music cycle to enter in stopped state.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to TTC
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|It is recommended to just enter, die and reenter with a normalized strat again for timestop.
+|-
+|RR to TTC
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|TTC Star reentry timestop
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|TTC death reentry timestop
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Cloud==
+Description: Only needed in 120.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to Cloud
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==JRB==
+Description: Only very rarely needed.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to JRB
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Aquarium==
+Description: Only in 120 needed.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Strats
+|Notes
+|-
+|StageExit to CCM
+|TODO
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

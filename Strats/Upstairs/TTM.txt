@@ -1,0 +1,164 @@
+
+Here you can find different strats for each star in Tall Tall Mountain (TTM)!
+==Scale the Mountain! (TTM Top)==
+Description: Fairly consistent star that is rather long, but can be optimized with lots of fast movement. Same route as TTM Waterfall, so you can use your strats for both stars.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|fastClimb
+|{{#ev:youtube|bRvAKvzgVHM}}
+|44.46
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BeginnerClimb
+|TODO
+|TODO
+|Advanced
+|
+|
+|}
+==Mystery of the Monkey Cage (TTM Monkey)==
+Description: Same beginning movement as TTM Top, but a pretty difficult ending with a longer cutscene. 
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|fastClimb
+|TODO
+|TODO
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==Scary 'Shrooms, Red Coins (TTM Reds)==
+Description: Very movement heavy star that can be optimized a lot with better movement.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|normalizationSkip
+|{{#ev:youtube|HkgIKgTMOpU}}
+|43.80
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|NormalRoute
+|TODO
+|TODO
+|Advanced
+|
+|
+|}
+
+==Mysterious Mountainslide (TTM Breeze)==
+Description: Fast, reliable and easy star. 
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|singleJ
+|{{#ev:youtube|Yl_r05aFhV0}}
+|16.1
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|Breezeless
+|TODO
+|TODO
+|Professional+
+|
+|only for singlestar
+|}
+==Breathtaking View from Bridge (TTM Waterfall)==
+Description: Same route as TTM Top, so you can use your strats for both stars.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|fastClimb
+|{{#ev:youtube|bRvAKvzgVHM}}
+|44.46
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|BeginnerClimb
+|TODO
+|TODO
+|Advanced
+|
+|
+|}
+==Blast to the Lonely Mushroom (TTM Box)==
+Description: Quiet annoying, but fast star. Needs some precise timing for the box jump.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|mario cam LJs
+|{{#ev:youtube|s9bObKScCow}}
+|13.33
+|Advanced
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+==100 Coins==
+Description: Interesting 100 coin star, as it has two possible beginnings: one from level start and one from the slide. Should probably be paired with reds, but it does not really matter.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional+
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}

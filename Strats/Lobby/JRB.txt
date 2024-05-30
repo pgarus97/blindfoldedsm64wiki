@@ -1,0 +1,160 @@
+Here you can find different strats for each star in Jolly Roger Bay (JRB)! 
+
+==Plunder in the Sunken Ship (JRB Ship)==
+Description: Unfortunately required for many of the other, faster stars of the stage. Very challenging star.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|LockCamEnding
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Can the Eel Come out and Play? (JRB Eel)==
+Description: Pretty fast and consistent star, most strats require the cannon to be open.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|CornerNormalization
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Treasure of the Ocean Cave (JRB Cave)==
+Description: Tiny bit too slow to be considered for most categories, but rather consistent if needed.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|LockCam
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Red Coins on the Ship Afloat (JRB Reds)==
+Description: Very slow and tedious star, requires lot of individual setups for coins. Not too horrible if not paired with 100 coins though.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==Blast to the Stone Pillar (JRB Pillar)==
+Description: Requires cannon or a framewalk (which is banned in most blindfolded categories if not performed with stick).
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|Framewalk
+|TODO from Stage RTA gold
+|TODO
+|Intermediate
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|Only easy if performed with button/keyboard for framewalk.
+|-
+|CannonESS
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|-
+|CannonTap
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+
+|}
+
+==Through the Jet Stream (JRB Jetstream)==
+Description: Requires metal cap. Pretty fast star; cannon can be opened on the way to the metal cap.
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
+
+==100 Coins==
+Description: One of the longest 100 coin stars in the game, requires lots of precision in swimming. Be careful as you can only miss 4 coins in the stage (total amount of coins: 104).
+{| class="sortable fandom-table"
+|Strategy
+|Video
+|Time
+|Difficulty
+|Strats
+|Notes
+|-
+|TODO
+|TODO from Stage RTA gold
+|TODO
+|Professional
+|<syntaxhighlight lang="text">
+TODO
+</syntaxhighlight>
+|
+|}
